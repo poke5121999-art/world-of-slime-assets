@@ -1,0 +1,7242 @@
+{
+ "m_Name": "MapCombineDataSet",
+ "classfication": {
+  "grounds": [
+   {
+    "tileClassificationName": "Ground_Empty",
+    "centerTiles": [
+     "Ground_Empty"
+    ],
+    "convexCornerTiles": [],
+    "concaveCornerTiles": [],
+    "edgeTiles": [],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Ground_int01_001",
+    "centerTiles": [
+     "Ground_int01_001"
+    ],
+    "convexCornerTiles": [],
+    "concaveCornerTiles": [],
+    "edgeTiles": [],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Ground_int02_001",
+    "centerTiles": [
+     "Ground_int02_001"
+    ],
+    "convexCornerTiles": [],
+    "concaveCornerTiles": [],
+    "edgeTiles": [],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Ground_int02_002",
+    "centerTiles": [
+     "Ground_int02_002"
+    ],
+    "convexCornerTiles": [],
+    "concaveCornerTiles": [],
+    "edgeTiles": [],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Ground_int03_001",
+    "centerTiles": [
+     "Ground_int03_001"
+    ],
+    "convexCornerTiles": [],
+    "concaveCornerTiles": [],
+    "edgeTiles": [],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Ground_t01_001",
+    "centerTiles": [
+     "Ground_t01_001"
+    ],
+    "convexCornerTiles": [],
+    "concaveCornerTiles": [],
+    "edgeTiles": [],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Ground_t01_002",
+    "centerTiles": [
+     "Ground_t01_002"
+    ],
+    "convexCornerTiles": [],
+    "concaveCornerTiles": [],
+    "edgeTiles": [],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Ground_t01_003",
+    "centerTiles": [
+     "Ground_t01_003"
+    ],
+    "convexCornerTiles": [],
+    "concaveCornerTiles": [],
+    "edgeTiles": [],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Ground_t02_001",
+    "centerTiles": [
+     "Ground_t02_001"
+    ],
+    "convexCornerTiles": [],
+    "concaveCornerTiles": [],
+    "edgeTiles": [],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Ground_t03_001",
+    "centerTiles": [
+     "Ground_t03_001"
+    ],
+    "convexCornerTiles": [],
+    "concaveCornerTiles": [],
+    "edgeTiles": [],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Ground_t05_001",
+    "centerTiles": [
+     "Ground_t05_001"
+    ],
+    "convexCornerTiles": [],
+    "concaveCornerTiles": [],
+    "edgeTiles": [],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Ground_t06_001",
+    "centerTiles": [
+     "Ground_t06_001"
+    ],
+    "convexCornerTiles": [],
+    "concaveCornerTiles": [],
+    "edgeTiles": [],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Ground_t06_002",
+    "centerTiles": [
+     "Ground_t06_002"
+    ],
+    "convexCornerTiles": [],
+    "concaveCornerTiles": [],
+    "edgeTiles": [],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Ground_t06_003",
+    "centerTiles": [
+     "Ground_t06_003"
+    ],
+    "convexCornerTiles": [],
+    "concaveCornerTiles": [],
+    "edgeTiles": [],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Ground_t06_2_001",
+    "centerTiles": [
+     "Ground_t06_2_001"
+    ],
+    "convexCornerTiles": [],
+    "concaveCornerTiles": [],
+    "edgeTiles": [],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Ground_t06_2_002",
+    "centerTiles": [
+     "Ground_t06_2_002"
+    ],
+    "convexCornerTiles": [],
+    "concaveCornerTiles": [],
+    "edgeTiles": [],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Ground_t06_2_003",
+    "centerTiles": [
+     "Ground_t06_2_003"
+    ],
+    "convexCornerTiles": [],
+    "concaveCornerTiles": [],
+    "edgeTiles": [],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Ground_t06_2_004",
+    "centerTiles": [
+     "Ground_t06_2_004"
+    ],
+    "convexCornerTiles": [],
+    "concaveCornerTiles": [],
+    "edgeTiles": [],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Ground_t06_2_005",
+    "centerTiles": [
+     "Ground_t06_2_005"
+    ],
+    "convexCornerTiles": [],
+    "concaveCornerTiles": [],
+    "edgeTiles": [],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Ground_ter01_001",
+    "centerTiles": [
+     "Ground_ter01_001"
+    ],
+    "convexCornerTiles": [],
+    "concaveCornerTiles": [],
+    "edgeTiles": [],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Ground_ter01_002",
+    "centerTiles": [
+     "Ground_ter01_002"
+    ],
+    "convexCornerTiles": [],
+    "concaveCornerTiles": [],
+    "edgeTiles": [],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Ground_ter02_001",
+    "centerTiles": [
+     "Ground_ter02_001"
+    ],
+    "convexCornerTiles": [],
+    "concaveCornerTiles": [],
+    "edgeTiles": [],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Ground_ter03_001",
+    "centerTiles": [
+     "Ground_ter03_001"
+    ],
+    "convexCornerTiles": [],
+    "concaveCornerTiles": [],
+    "edgeTiles": [],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Ground_ter04_001",
+    "centerTiles": [
+     "Ground_ter04_001"
+    ],
+    "convexCornerTiles": [],
+    "concaveCornerTiles": [],
+    "edgeTiles": [],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Ground_ter04_002",
+    "centerTiles": [
+     "Ground_ter04_002"
+    ],
+    "convexCornerTiles": [],
+    "concaveCornerTiles": [],
+    "edgeTiles": [],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Ground_ter05_001",
+    "centerTiles": [
+     "Ground_ter05_001"
+    ],
+    "convexCornerTiles": [],
+    "concaveCornerTiles": [],
+    "edgeTiles": [],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Ground_ter06_001",
+    "centerTiles": [
+     "Ground_ter06_001"
+    ],
+    "convexCornerTiles": [],
+    "concaveCornerTiles": [],
+    "edgeTiles": [],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Ground_int04_001",
+    "centerTiles": [
+     "Ground_int04_001"
+    ],
+    "convexCornerTiles": [],
+    "concaveCornerTiles": [],
+    "edgeTiles": [],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Ground_int04_002",
+    "centerTiles": [
+     "Ground_int04_002"
+    ],
+    "convexCornerTiles": [],
+    "concaveCornerTiles": [],
+    "edgeTiles": [],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Ground_int06_001",
+    "centerTiles": [
+     "Ground_int06_001"
+    ],
+    "convexCornerTiles": [],
+    "concaveCornerTiles": [],
+    "edgeTiles": [],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Ground_int04_003",
+    "centerTiles": [
+     "Ground_int04_003"
+    ],
+    "convexCornerTiles": [],
+    "concaveCornerTiles": [],
+    "edgeTiles": [],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Ground_int04_004",
+    "centerTiles": [
+     "Ground_int04_004"
+    ],
+    "convexCornerTiles": [],
+    "concaveCornerTiles": [],
+    "edgeTiles": [],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Ground_int02_003",
+    "centerTiles": [
+     "Ground_int02_003"
+    ],
+    "convexCornerTiles": [],
+    "concaveCornerTiles": [],
+    "edgeTiles": [],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   }
+  ],
+  "waters": [
+   {
+    "tileClassificationName": "Water_01-A",
+    "centerTiles": [
+     "Water_01-A_0_a_1"
+    ],
+    "convexCornerTiles": [
+     "Water_01-A_0_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Water_01-A_0_d_1"
+    ],
+    "edgeTiles": [
+     "Water_01-A_0_b_1"
+    ],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Water_02-A",
+    "centerTiles": [
+     "Water_02-A_0_a_1"
+    ],
+    "convexCornerTiles": [
+     "Water_02-A_0_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Water_02-A_0_d_1"
+    ],
+    "edgeTiles": [
+     "Water_02-A_0_b_1"
+    ],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Water_03-A",
+    "centerTiles": [
+     "Water_03-A_0_a_1"
+    ],
+    "convexCornerTiles": [
+     "Water_03-A_0_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Water_03-A_0_d_1"
+    ],
+    "edgeTiles": [
+     "Water_03-A_0_b_1"
+    ],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Water_04-A",
+    "centerTiles": [
+     "Water_04-A_0_a_1"
+    ],
+    "convexCornerTiles": [
+     "Water_04-A_0_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Water_04-A_0_d_1"
+    ],
+    "edgeTiles": [
+     "Water_04-A_0_b_1"
+    ],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Water_05-A",
+    "centerTiles": [
+     "Water_05-A_0_a_1"
+    ],
+    "convexCornerTiles": [
+     "Water_05-A_0_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Water_05-A_0_d_1"
+    ],
+    "edgeTiles": [
+     "Water_05-A_0_b_1"
+    ],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Water_06-A",
+    "centerTiles": [
+     "Water_06-A_0_a_1"
+    ],
+    "convexCornerTiles": [
+     "Water_06-A_0_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Water_06-A_0_d_1"
+    ],
+    "edgeTiles": [
+     "Water_06-A_0_b_1",
+     "Water_06-A_0_b_2",
+     "Water_06-A_0_b_3"
+    ],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Water_07-A",
+    "centerTiles": [
+     "Water_07-A_0_a_1"
+    ],
+    "convexCornerTiles": [],
+    "concaveCornerTiles": [],
+    "edgeTiles": [],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Water_08-A",
+    "centerTiles": [
+     "Water_08-A_0_a_1"
+    ],
+    "convexCornerTiles": [],
+    "concaveCornerTiles": [],
+    "edgeTiles": [],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   }
+  ],
+  "cliffs": [
+   {
+    "tileClassificationName": "Cliff_t01-A",
+    "centerTiles": [
+     "Cliff_t01-A_2_a_1"
+    ],
+    "convexCornerTiles": [
+     "Cliff_t01-A_2_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Cliff_t01-A_2_d_1"
+    ],
+    "edgeTiles": [
+     "Cliff_t01-A_2_b_1",
+     "Cliff_t01-A_2_b_2",
+     "Cliff_t01-A_2_b_3",
+     "Cliff_t01-A_2_b_4"
+    ],
+    "groundCornerTiles": [
+     "Cliff_t01-A_1_c_1"
+    ],
+    "groundEdgeTiles": [
+     "Cliff_t01-A_1_b_1",
+     "Cliff_t01-A_1_b_2",
+     "Cliff_t01-A_1_b_3"
+    ]
+   },
+   {
+    "tileClassificationName": "Cliff_t01-B",
+    "centerTiles": [
+     "Cliff_t01-B_2_a_1"
+    ],
+    "convexCornerTiles": [
+     "Cliff_t01-B_2_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Cliff_t01-B_2_d_1"
+    ],
+    "edgeTiles": [
+     "Cliff_t01-B_2_b_1",
+     "Cliff_t01-B_2_b_2",
+     "Cliff_t01-B_2_b_3"
+    ],
+    "groundCornerTiles": [
+     "Cliff_t01-B_1_c_1"
+    ],
+    "groundEdgeTiles": [
+     "Cliff_t01-B_1_b_1",
+     "Cliff_t01-B_1_b_2",
+     "Cliff_t01-B_1_b_3"
+    ]
+   },
+   {
+    "tileClassificationName": "Cliff_01-C",
+    "centerTiles": [],
+    "convexCornerTiles": [
+     "Cliff_01-C_2_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Cliff_01-C_2_d_1"
+    ],
+    "edgeTiles": [
+     "Cliff_01-C_2_b_1",
+     "Cliff_01-C_2_b_2",
+     "Cliff_01-C_2_b_3"
+    ],
+    "groundCornerTiles": [
+     "Cliff_01-C_1_c_1"
+    ],
+    "groundEdgeTiles": [
+     "Cliff_01-C_1_b_1",
+     "Cliff_01-C_1_b_2",
+     "Cliff_01-C_1_b_3"
+    ]
+   },
+   {
+    "tileClassificationName": "Cliff_05-B",
+    "centerTiles": [
+     "Cliff_05-B_2_a_1"
+    ],
+    "convexCornerTiles": [
+     "Cliff_05-B_2_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Cliff_05-B_2_d_1"
+    ],
+    "edgeTiles": [
+     "Cliff_05-B_2_b_1",
+     "Cliff_05-B_2_b_2",
+     "Cliff_05-B_2_b_3"
+    ],
+    "groundCornerTiles": [
+     "Cliff_05-B_1_c_1"
+    ],
+    "groundEdgeTiles": [
+     "Cliff_05-B_1_b_1",
+     "Cliff_05-B_1_b_2",
+     "Cliff_05-B_1_b_3"
+    ]
+   },
+   {
+    "tileClassificationName": "Cliff_t05-A",
+    "centerTiles": [
+     "Cliff_t05-A_2_a_1"
+    ],
+    "convexCornerTiles": [
+     "Cliff_t05-A_2_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Cliff_t05-A_2_d_1"
+    ],
+    "edgeTiles": [
+     "Cliff_t05-A_2_b_1",
+     "Cliff_t05-A_2_b_2",
+     "Cliff_t05-A_2_b_3",
+     "Cliff_t05-A_2_b_4"
+    ],
+    "groundCornerTiles": [
+     "Cliff_t05-A_1_c_1"
+    ],
+    "groundEdgeTiles": [
+     "Cliff_t05-A_1_b_1",
+     "Cliff_t05-A_1_b_2",
+     "Cliff_t05-A_1_b_3"
+    ]
+   },
+   {
+    "tileClassificationName": "Cliff_01-B",
+    "centerTiles": [
+     "Cliff_01-B_2_a_1"
+    ],
+    "convexCornerTiles": [
+     "Cliff_01-B_2_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Cliff_01-B_2_d_1"
+    ],
+    "edgeTiles": [
+     "Cliff_01-B_2_b_1",
+     "Cliff_01-B_2_b_2",
+     "Cliff_01-B_2_b_3",
+     "Cliff_01-B_2_b_4"
+    ],
+    "groundCornerTiles": [
+     "Cliff_01-B_1_c_1"
+    ],
+    "groundEdgeTiles": [
+     "Cliff_01-B_1_b_1",
+     "Cliff_01-B_1_b_2",
+     "Cliff_01-B_1_b_3"
+    ]
+   },
+   {
+    "tileClassificationName": "Cliff_06-A",
+    "centerTiles": [
+     "Cliff_06-A_2_a_1"
+    ],
+    "convexCornerTiles": [
+     "Cliff_06-A_2_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Cliff_06-A_2_d_1"
+    ],
+    "edgeTiles": [
+     "Cliff_06-A_2_b_1",
+     "Cliff_06-A_2_b_2",
+     "Cliff_06-A_2_b_3"
+    ],
+    "groundCornerTiles": [
+     "Cliff_06-A_1_c_1"
+    ],
+    "groundEdgeTiles": [
+     "Cliff_06-A_1_b_1",
+     "Cliff_06-A_1_b_3"
+    ]
+   },
+   {
+    "tileClassificationName": "Cliff_06-B",
+    "centerTiles": [
+     "Cliff_06-B_2_a_1"
+    ],
+    "convexCornerTiles": [
+     "Cliff_06-B_2_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Cliff_06-B_2_d_1"
+    ],
+    "edgeTiles": [
+     "Cliff_06-B_2_b_1",
+     "Cliff_06-B_2_b_2",
+     "Cliff_06-B_2_b_3",
+     "Cliff_06-B_2_b_4"
+    ],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Cliff_t03-A",
+    "centerTiles": [
+     "Cliff_t03-A_2_a_1"
+    ],
+    "convexCornerTiles": [
+     "Cliff_t03-A_2_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Cliff_t03-A_2_d_1"
+    ],
+    "edgeTiles": [
+     "Cliff_t03-A_2_b_1",
+     "Cliff_t03-A_2_b_2",
+     "Cliff_t03-A_2_b_3",
+     "Cliff_t03-A_2_b_4"
+    ],
+    "groundCornerTiles": [
+     "Cliff_t03-A_1_c_1"
+    ],
+    "groundEdgeTiles": [
+     "Cliff_t03-A_1_b_1",
+     "Cliff_t03-A_1_b_2",
+     "Cliff_t03-A_1_b_3"
+    ]
+   },
+   {
+    "tileClassificationName": "Cliff_01-A",
+    "centerTiles": [
+     "Cliff_01-A_2_a_1"
+    ],
+    "convexCornerTiles": [
+     "Cliff_01-A_2_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Cliff_01-A_2_d_1"
+    ],
+    "edgeTiles": [
+     "Cliff_01-A_2_b_1",
+     "Cliff_01-A_2_b_2",
+     "Cliff_01-A_2_b_3",
+     "Cliff_01-A_2_b_4"
+    ],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Cliff_02-A",
+    "centerTiles": [
+     "Cliff_02-A_2_a_1"
+    ],
+    "convexCornerTiles": [
+     "Cliff_02-A_2_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Cliff_02-A_2_d_1"
+    ],
+    "edgeTiles": [
+     "Cliff_02-A_2_b_1",
+     "Cliff_02-A_2_b_2",
+     "Cliff_02-A_2_b_3"
+    ],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Cliff_05-A",
+    "centerTiles": [
+     "Cliff_05-A_2_a_1"
+    ],
+    "convexCornerTiles": [
+     "Cliff_05-A_2_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Cliff_05-A_2_d_1"
+    ],
+    "edgeTiles": [
+     "Cliff_05-A_2_b_1",
+     "Cliff_05-A_2_b_2",
+     "Cliff_05-A_2_b_3",
+     "Cliff_05-A_2_b_4"
+    ],
+    "groundCornerTiles": [
+     "Cliff_05-A_1_c_1"
+    ],
+    "groundEdgeTiles": [
+     "Cliff_05-A_1_b_1",
+     "Cliff_05-A_1_b_2",
+     "Cliff_05-A_1_b_3"
+    ]
+   },
+   {
+    "tileClassificationName": "Cliff_06-C",
+    "centerTiles": [
+     "Cliff_06-C_2_a_1"
+    ],
+    "convexCornerTiles": [
+     "Cliff_06-C_2_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Cliff_06-C_2_d_1"
+    ],
+    "edgeTiles": [
+     "Cliff_06-C_2_b_1",
+     "Cliff_06-C_2_b_2",
+     "Cliff_06-C_2_b_3",
+     "Cliff_06-C_2_b_4"
+    ],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Cliff_t06-A",
+    "centerTiles": [
+     "Cliff_t06-A_2_a_1"
+    ],
+    "convexCornerTiles": [
+     "Cliff_t06-A_2_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Cliff_t06-A_2_d_1"
+    ],
+    "edgeTiles": [
+     "Cliff_t06-A_2_b_1",
+     "Cliff_t06-A_2_b_2",
+     "Cliff_t06-A_2_b_3",
+     "Cliff_t06-A_2_b_4"
+    ],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Cliff_08-B",
+    "centerTiles": [
+     "Cliff_08-B_2_a_1"
+    ],
+    "convexCornerTiles": [
+     "Cliff_08-B_2_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Cliff_08-B_2_d_1"
+    ],
+    "edgeTiles": [
+     "Cliff_08-B_2_b_1",
+     "Cliff_08-B_2_b_2",
+     "Cliff_08-B_2_b_3",
+     "Cliff_08-B_2_b_4"
+    ],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Cliff_07-A",
+    "centerTiles": [],
+    "convexCornerTiles": [
+     "Cliff_07-A_2_c_1",
+     "Cliff_07-A_2_c_2"
+    ],
+    "concaveCornerTiles": [],
+    "edgeTiles": [
+     "Cliff_07-A_2_b_1",
+     "Cliff_07-A_2_b_2",
+     "Cliff_07-A_2_b_4"
+    ],
+    "groundCornerTiles": [
+     "Cliff_07-A_1_c_1"
+    ],
+    "groundEdgeTiles": [
+     "Cliff_07-A_1_b_2"
+    ]
+   },
+   {
+    "tileClassificationName": "Cliff_09-A",
+    "centerTiles": [
+     "Cliff_09-A_2_a_1"
+    ],
+    "convexCornerTiles": [
+     "Cliff_09-A_2_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Cliff_09-A_2_d_2"
+    ],
+    "edgeTiles": [
+     "Cliff_09-A_2_b_1"
+    ],
+    "groundCornerTiles": [
+     "Cliff_09-A_1_c_1"
+    ],
+    "groundEdgeTiles": [
+     "Cliff_09-A_1_b_1"
+    ]
+   },
+   {
+    "tileClassificationName": "Cliff_10-A",
+    "centerTiles": [
+     "Cliff_10-A_2_a_1"
+    ],
+    "convexCornerTiles": [
+     "Cliff_10-A_2_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Cliff_10-A_2_d_2"
+    ],
+    "edgeTiles": [
+     "Cliff_10-A_2_b_1"
+    ],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Cliff_11-B",
+    "centerTiles": [
+     "Cliff_11-B_2_a_1"
+    ],
+    "convexCornerTiles": [
+     "Cliff_11-B_2_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Cliff_11-B_2_d_1"
+    ],
+    "edgeTiles": [
+     "Cliff_11-B_2_b_1",
+     "Cliff_11-B_2_b_2",
+     "Cliff_11-B_2_b_3",
+     "Cliff_11-B_2_b_4"
+    ],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Cliff_t08-A",
+    "centerTiles": [
+     "Cliff_t08-A_2_a_1"
+    ],
+    "convexCornerTiles": [
+     "Cliff_t08-A_2_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Cliff_t08-A_2_d_1"
+    ],
+    "edgeTiles": [
+     "Cliff_t08-A_2_b_2",
+     "Cliff_t08-A_2_b_3",
+     "Cliff_t08-A_2_b_4"
+    ],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Cliff_t09-A",
+    "centerTiles": [
+     "Cliff_t09-A_2_a_1"
+    ],
+    "convexCornerTiles": [
+     "Cliff_t09-A_2_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Cliff_t09-A_2_d_1"
+    ],
+    "edgeTiles": [
+     "Cliff_t09-A_2_b_1",
+     "Cliff_t09-A_2_b_2",
+     "Cliff_t09-A_2_b_3",
+     "Cliff_t09-A_2_b_4"
+    ],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Cliff_t08-B",
+    "centerTiles": [
+     "Cliff_t08-B_2_a_1"
+    ],
+    "convexCornerTiles": [
+     "Cliff_t08-B_2_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Cliff_t08-B_2_d_1"
+    ],
+    "edgeTiles": [
+     "Cliff_t08-B_2_b_1",
+     "Cliff_t08-B_2_b_2",
+     "Cliff_t08-B_2_b_3",
+     "Cliff_t08-B_2_b_4"
+    ],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Cliff_12-A",
+    "centerTiles": [
+     "Cliff_12-A_2_a_1"
+    ],
+    "convexCornerTiles": [
+     "Cliff_12-A_2_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Cliff_12-A_2_d_1"
+    ],
+    "edgeTiles": [
+     "Cliff_12-A_2_b_1",
+     "Cliff_12-A_2_b_2",
+     "Cliff_12-A_2_b_3",
+     "Cliff_12-A_2_b_4"
+    ],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Cliff_13-A",
+    "centerTiles": [
+     "Cliff_13-A_2_a_1"
+    ],
+    "convexCornerTiles": [
+     "Cliff_13-A_2_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Cliff_13-A_2_d_1"
+    ],
+    "edgeTiles": [
+     "Cliff_13-A_2_b_1",
+     "Cliff_13-A_2_b_2",
+     "Cliff_13-A_2_b_3",
+     "Cliff_13-A_2_b_4"
+    ],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Cliff_03-A",
+    "centerTiles": [
+     "Cliff_03-A_2_a_1"
+    ],
+    "convexCornerTiles": [
+     "Cliff_03-A_2_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Cliff_03-A_2_d_1"
+    ],
+    "edgeTiles": [
+     "Cliff_03-A_2_b_1",
+     "Cliff_03-A_2_b_2",
+     "Cliff_03-A_2_b_3"
+    ],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Cliff_04-A",
+    "centerTiles": [
+     "Cliff_04-A_2_a_1"
+    ],
+    "convexCornerTiles": [
+     "Cliff_04-A_2_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Cliff_04-A_2_d_1"
+    ],
+    "edgeTiles": [
+     "Cliff_04-A_2_b_1",
+     "Cliff_04-A_2_b_2",
+     "Cliff_04-A_2_b_3"
+    ],
+    "groundCornerTiles": [
+     "Cliff_04-A_1_c_1"
+    ],
+    "groundEdgeTiles": [
+     "Cliff_04-A_1_b_1",
+     "Cliff_04-A_1_b_2",
+     "Cliff_04-A_1_b_3"
+    ]
+   }
+  ],
+  "routes": [
+   {
+    "tileClassificationName": "Path_01-A",
+    "centerTiles": [
+     "Path_01-A_a_1"
+    ],
+    "convexCornerTiles": [
+     "Path_01-A_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Path_01-A_d_1"
+    ],
+    "edgeTiles": [
+     "Path_01-A_b_1"
+    ],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Path_01-B",
+    "centerTiles": [
+     "Path_01-B_a_1"
+    ],
+    "convexCornerTiles": [
+     "Path_01-B_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Path_01-B_d_1"
+    ],
+    "edgeTiles": [
+     "Path_01-B_b_1"
+    ],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Path_01-C",
+    "centerTiles": [
+     "Path_01-C_a_1"
+    ],
+    "convexCornerTiles": [
+     "Path_01-C_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Path_01-C_d_1"
+    ],
+    "edgeTiles": [
+     "Path_01-C_b_1",
+     "Path_01-C_b_2",
+     "Path_01-C_b_3",
+     "Path_01-C_b_4"
+    ],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Path_04-A",
+    "centerTiles": [
+     "Path_04-A_a_1"
+    ],
+    "convexCornerTiles": [
+     "Path_04-A_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Path_04-A_d_1"
+    ],
+    "edgeTiles": [
+     "Path_04-A_b_1",
+     "Path_04-A_b_2",
+     "Path_04-A_b_3",
+     "Path_04-A_b_4"
+    ],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Path_04-B",
+    "centerTiles": [
+     "Path_04-B_a_1"
+    ],
+    "convexCornerTiles": [
+     "Path_04-B_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Path_04-B_d_1"
+    ],
+    "edgeTiles": [
+     "Path_04-B_b_1"
+    ],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Path_t01-A",
+    "centerTiles": [
+     "Path_t01-A_a_1"
+    ],
+    "convexCornerTiles": [
+     "Path_t01-A_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Path_t01-A_d_1"
+    ],
+    "edgeTiles": [
+     "Path_t01-A_b_1"
+    ],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Path_t01-B",
+    "centerTiles": [
+     "Path_t01-B_a_1"
+    ],
+    "convexCornerTiles": [
+     "Path_t01-B_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Path_t01-B_d_1"
+    ],
+    "edgeTiles": [
+     "Path_t01-B_b_1"
+    ],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Path_t01-C",
+    "centerTiles": [
+     "Path_t01-C_a_1"
+    ],
+    "convexCornerTiles": [
+     "Path_t01-C_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Path_t01-C_d_1"
+    ],
+    "edgeTiles": [
+     "Path_t01-C_b_1",
+     "Path_t01-C_b_2",
+     "Path_t01-C_b_3",
+     "Path_t01-C_b_4"
+    ],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Path_t01-D",
+    "centerTiles": [
+     "Path_t01-D_a_1"
+    ],
+    "convexCornerTiles": [
+     "Path_t01-D_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Path_t01-D_d_1"
+    ],
+    "edgeTiles": [
+     "Path_t01-D_b_1"
+    ],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Path_t01-E",
+    "centerTiles": [
+     "Path_t01-E_a_1"
+    ],
+    "convexCornerTiles": [
+     "Path_t01-E_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Path_t01-E_d_1"
+    ],
+    "edgeTiles": [
+     "Path_t01-E_b_1"
+    ],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Path_t01-F",
+    "centerTiles": [
+     "Path_t01-F_a_1"
+    ],
+    "convexCornerTiles": [
+     "Path_t01-F_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Path_t01-F_d_1"
+    ],
+    "edgeTiles": [
+     "Path_t01-F_b_1"
+    ],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Path_02-A",
+    "centerTiles": [
+     "Path_02-A_a_1"
+    ],
+    "convexCornerTiles": [
+     "Path_02-A_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Path_02-A_d_1"
+    ],
+    "edgeTiles": [
+     "Path_02-A_b_1"
+    ],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Path_02-B",
+    "centerTiles": [
+     "Path_02-B_a_1"
+    ],
+    "convexCornerTiles": [
+     "Path_02-B_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Path_02-B_d_1"
+    ],
+    "edgeTiles": [
+     "Path_02-B_b_1"
+    ],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Path_02-C",
+    "centerTiles": [
+     "Path_02-C_a_1"
+    ],
+    "convexCornerTiles": [
+     "Path_02-C_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Path_02-C_d_1"
+    ],
+    "edgeTiles": [
+     "Path_02-C_b_1"
+    ],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Path_t03-A",
+    "centerTiles": [
+     "Path_t03-A_a_1"
+    ],
+    "convexCornerTiles": [
+     "Path_t03-A_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Path_t03-A_d_1"
+    ],
+    "edgeTiles": [
+     "Path_t03-A_b_1"
+    ],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Path_t03-B",
+    "centerTiles": [
+     "Path_t03-B_a_1"
+    ],
+    "convexCornerTiles": [
+     "Path_t03-B_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Path_t03-B_d_1"
+    ],
+    "edgeTiles": [
+     "Path_t03-B_b_1"
+    ],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Path_03-A",
+    "centerTiles": [
+     "Path_03-A_a_1"
+    ],
+    "convexCornerTiles": [
+     "Path_03-A_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Path_03-A_d_1"
+    ],
+    "edgeTiles": [
+     "Path_03-A_b_1"
+    ],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Path_03-B",
+    "centerTiles": [
+     "Path_03-B_a_1"
+    ],
+    "convexCornerTiles": [
+     "Path_03-B_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Path_03-B_d_1"
+    ],
+    "edgeTiles": [
+     "Path_03-B_b_1"
+    ],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Path_03-C",
+    "centerTiles": [
+     "Path_03-C_a_1"
+    ],
+    "convexCornerTiles": [
+     "Path_03-C_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Path_03-C_d_1"
+    ],
+    "edgeTiles": [
+     "Path_03-C_b_1",
+     "Path_03-C_b_2",
+     "Path_03-C_b_3",
+     "Path_03-C_b_4"
+    ],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Path_05-A",
+    "centerTiles": [
+     "Path_05-A_a_1"
+    ],
+    "convexCornerTiles": [
+     "Path_05-A_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Path_05-A_d_1"
+    ],
+    "edgeTiles": [
+     "Path_05-A_b_1"
+    ],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Path_t05-A",
+    "centerTiles": [
+     "Path_t05-A_a_1"
+    ],
+    "convexCornerTiles": [
+     "Path_t05-A_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Path_t05-A_d_1"
+    ],
+    "edgeTiles": [
+     "Path_t05-A_b_1",
+     "Path_t05-A_b_2",
+     "Path_t05-A_b_3",
+     "Path_t05-A_b_4"
+    ],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Path_t05-B",
+    "centerTiles": [
+     "Path_t05-B_a_1"
+    ],
+    "convexCornerTiles": [
+     "Path_t05-B_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Path_t05-B_d_1"
+    ],
+    "edgeTiles": [
+     "Path_t05-B_b_1"
+    ],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Path_t05-C",
+    "centerTiles": [
+     "Path_t05-C_a_1"
+    ],
+    "convexCornerTiles": [
+     "Path_t05-C_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Path_t05-C_d_1"
+    ],
+    "edgeTiles": [
+     "Path_t05-C_b_1"
+    ],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Path_t05-D",
+    "centerTiles": [
+     "Path_t05-D_a_1"
+    ],
+    "convexCornerTiles": [],
+    "concaveCornerTiles": [],
+    "edgeTiles": [],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Path_06-A",
+    "centerTiles": [
+     "Path_06-A_a_1"
+    ],
+    "convexCornerTiles": [
+     "Path_06-A_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Path_06-A_d_1"
+    ],
+    "edgeTiles": [
+     "Path_06-A_b_1",
+     "Path_06-A_b_2",
+     "Path_06-A_b_3",
+     "Path_06-A_b_4"
+    ],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Path_06-B",
+    "centerTiles": [
+     "Path_06-B_a_1"
+    ],
+    "convexCornerTiles": [
+     "Path_06-B_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Path_06-B_d_1"
+    ],
+    "edgeTiles": [
+     "Path_06-B_b_1"
+    ],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Path_06-C",
+    "centerTiles": [
+     "Path_06-C_a_1"
+    ],
+    "convexCornerTiles": [
+     "Path_06-C_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Path_06-C_d_1"
+    ],
+    "edgeTiles": [
+     "Path_06-C_b_1",
+     "Path_06-C_b_2",
+     "Path_06-C_b_3",
+     "Path_06-C_b_4"
+    ],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Path_05-B",
+    "centerTiles": [
+     "Path_05-B_a_1"
+    ],
+    "convexCornerTiles": [
+     "Path_05-B_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Path_05-B_d_1"
+    ],
+    "edgeTiles": [
+     "Path_05-B_b_1"
+    ],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Path_05-C",
+    "centerTiles": [
+     "Path_05-C_a_1"
+    ],
+    "convexCornerTiles": [
+     "Path_05-C_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Path_05-C_d_1"
+    ],
+    "edgeTiles": [
+     "Path_05-C_b_1",
+     "Path_05-C_b_2",
+     "Path_05-C_b_3",
+     "Path_05-C_b_4"
+    ],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Path_07-A",
+    "centerTiles": [
+     "Path_07-A_a_1"
+    ],
+    "convexCornerTiles": [
+     "Path_07-A_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Path_07-A_d_1"
+    ],
+    "edgeTiles": [
+     "Path_07-A_b_1",
+     "Path_07-A_b_2",
+     "Path_07-A_b_3",
+     "Path_07-A_b_4"
+    ],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Path_07-B",
+    "centerTiles": [
+     "Path_07-B_a_1"
+    ],
+    "convexCornerTiles": [
+     "Path_07-B_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Path_07-B_d_1"
+    ],
+    "edgeTiles": [
+     "Path_07-B_b_1"
+    ],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Path_07-C",
+    "centerTiles": [
+     "Path_07-C_a_1"
+    ],
+    "convexCornerTiles": [
+     "Path_07-C_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Path_07-C_d_1"
+    ],
+    "edgeTiles": [
+     "Path_07-C_b_1",
+     "Path_07-C_b_2",
+     "Path_07-C_b_3",
+     "Path_07-C_b_4"
+    ],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Path_t03-C",
+    "centerTiles": [
+     "Path_t03-C_a_1"
+    ],
+    "convexCornerTiles": [
+     "Path_t03-C_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Path_t03-C_d_1"
+    ],
+    "edgeTiles": [
+     "Path_t03-C_b_1",
+     "Path_t03-C_b_2",
+     "Path_t03-C_b_3",
+     "Path_t03-C_b_4"
+    ],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Path_04-C",
+    "centerTiles": [
+     "Path_04-C_a_1"
+    ],
+    "convexCornerTiles": [
+     "Path_04-C_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Path_04-C_d_1"
+    ],
+    "edgeTiles": [
+     "Path_04-C_b_1",
+     "Path_04-C_b_2",
+     "Path_04-C_b_3",
+     "Path_04-C_b_4"
+    ],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Path_09-A",
+    "centerTiles": [
+     "Path_09-A_a_1"
+    ],
+    "convexCornerTiles": [
+     "Path_09-A_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Path_09-A_d_1"
+    ],
+    "edgeTiles": [
+     "Path_09-A_b_1"
+    ],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Path_t07-A",
+    "centerTiles": [
+     "Path_t07-A_a_1"
+    ],
+    "convexCornerTiles": [
+     "Path_t07-A_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Path_t07-A_d_1"
+    ],
+    "edgeTiles": [
+     "Path_t07-A_b_1",
+     "Path_t07-A_b_2",
+     "Path_t07-A_b_3",
+     "Path_t07-A_b_4"
+    ],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Path_t07-B",
+    "centerTiles": [
+     "Path_t07-B_a_1"
+    ],
+    "convexCornerTiles": [
+     "Path_t07-B_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Path_t07-B_d_1"
+    ],
+    "edgeTiles": [
+     "Path_t07-B_b_1"
+    ],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Path_10-A",
+    "centerTiles": [
+     "Path_10-A_a_1"
+    ],
+    "convexCornerTiles": [
+     "Path_10-A_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Path_10-A_d_1"
+    ],
+    "edgeTiles": [
+     "Path_10-A_b_1"
+    ],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Path_10-C",
+    "centerTiles": [
+     "Path_10-C_a_1"
+    ],
+    "convexCornerTiles": [
+     "Path_10-C_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Path_10-C_d_1"
+    ],
+    "edgeTiles": [
+     "Path_10-C_b_1",
+     "Path_10-C_b_2",
+     "Path_10-C_b_3",
+     "Path_10-C_b_4"
+    ],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Path_10-B",
+    "centerTiles": [
+     "Path_10-B_a_1"
+    ],
+    "convexCornerTiles": [
+     "Path_10-B_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Path_10-B_d_1"
+    ],
+    "edgeTiles": [
+     "Path_10-B_b_1"
+    ],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Path_t08-A",
+    "centerTiles": [
+     "Path_t08-A_a_1"
+    ],
+    "convexCornerTiles": [
+     "Path_t08-A_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Path_t08-A_d_1"
+    ],
+    "edgeTiles": [
+     "Path_t08-A_b_1",
+     "Path_t08-A_b_2",
+     "Path_t08-A_b_3",
+     "Path_t08-A_b_4"
+    ],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Path_t08-B",
+    "centerTiles": [
+     "Path_t08-B_a_1"
+    ],
+    "convexCornerTiles": [
+     "Path_t08-B_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Path_t08-B_d_1"
+    ],
+    "edgeTiles": [
+     "Path_t08-B_b_1"
+    ],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Path_11-A",
+    "centerTiles": [
+     "Path_11-A_a_1"
+    ],
+    "convexCornerTiles": [
+     "Path_11-A_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Path_11-A_d_1"
+    ],
+    "edgeTiles": [
+     "Path_11-A_b_1",
+     "Path_11-A_b_2",
+     "Path_11-A_b_3",
+     "Path_11-A_b_4"
+    ],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Path_11-B",
+    "centerTiles": [
+     "Path_11-B_a_1"
+    ],
+    "convexCornerTiles": [
+     "Path_11-B_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Path_11-B_d_1"
+    ],
+    "edgeTiles": [
+     "Path_11-B_b_1"
+    ],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   },
+   {
+    "tileClassificationName": "Path_11-C",
+    "centerTiles": [
+     "Path_11-C_a_1"
+    ],
+    "convexCornerTiles": [
+     "Path_11-C_c_1"
+    ],
+    "concaveCornerTiles": [
+     "Path_11-C_d_1"
+    ],
+    "edgeTiles": [
+     "Path_11-C_b_1",
+     "Path_11-C_b_2",
+     "Path_11-C_b_3",
+     "Path_11-C_b_4"
+    ],
+    "groundCornerTiles": [],
+    "groundEdgeTiles": []
+   }
+  ],
+  "shadows": []
+ },
+ "freezeTile": {
+  "freezeTileDatas": [
+   {
+    "name": "Cliff_01-A_1_b_1"
+   },
+   {
+    "name": "Cliff_01-A_1_b_2"
+   },
+   {
+    "name": "Cliff_01-A_1_b_3"
+   },
+   {
+    "name": "Cliff_01-A_1_c_1"
+   },
+   {
+    "name": "Cliff_01-A_2_a_1"
+   },
+   {
+    "name": "Cliff_01-A_2_b_1"
+   },
+   {
+    "name": "Cliff_01-A_2_b_2"
+   },
+   {
+    "name": "Cliff_01-A_2_b_3"
+   },
+   {
+    "name": "Cliff_01-A_2_b_4"
+   },
+   {
+    "name": "Cliff_01-A_2_c_1"
+   },
+   {
+    "name": "Cliff_01-A_2_d_1"
+   },
+   {
+    "name": "Cliff_01-B_1_b_1"
+   },
+   {
+    "name": "Cliff_01-B_1_b_2"
+   },
+   {
+    "name": "Cliff_01-B_1_b_3"
+   },
+   {
+    "name": "Cliff_01-B_1_c_1"
+   },
+   {
+    "name": "Cliff_01-B_2_a_1"
+   },
+   {
+    "name": "Cliff_01-B_2_b_1"
+   },
+   {
+    "name": "Cliff_01-B_2_b_2"
+   },
+   {
+    "name": "Cliff_01-B_2_b_3"
+   },
+   {
+    "name": "Cliff_01-B_2_b_4"
+   },
+   {
+    "name": "Cliff_01-B_2_c_1"
+   },
+   {
+    "name": "Cliff_01-B_2_d_1"
+   },
+   {
+    "name": "Cliff_01-C_1_b_1"
+   },
+   {
+    "name": "Cliff_01-C_1_b_2"
+   },
+   {
+    "name": "Cliff_01-C_1_b_3"
+   },
+   {
+    "name": "Cliff_01-C_1_c_1"
+   },
+   {
+    "name": "Cliff_01-C_2_b_1"
+   },
+   {
+    "name": "Cliff_01-C_2_b_2"
+   },
+   {
+    "name": "Cliff_01-C_2_b_3"
+   },
+   {
+    "name": "Cliff_01-C_2_c_1"
+   },
+   {
+    "name": "Cliff_01-C_2_d_1"
+   },
+   {
+    "name": "Cliff_02-A_2_a_1"
+   },
+   {
+    "name": "Cliff_02-A_2_b_1"
+   },
+   {
+    "name": "Cliff_02-A_2_b_2"
+   },
+   {
+    "name": "Cliff_02-A_2_b_3"
+   },
+   {
+    "name": "Cliff_02-A_2_c_1"
+   },
+   {
+    "name": "Cliff_02-A_2_d_1"
+   },
+   {
+    "name": "Cliff_03-A_2_a_1"
+   },
+   {
+    "name": "Cliff_03-A_2_b_1"
+   },
+   {
+    "name": "Cliff_03-A_2_b_2"
+   },
+   {
+    "name": "Cliff_03-A_2_b_3"
+   },
+   {
+    "name": "Cliff_03-A_2_c_1"
+   },
+   {
+    "name": "Cliff_03-A_2_d_1"
+   },
+   {
+    "name": "Cliff_04-A_1_b_1"
+   },
+   {
+    "name": "Cliff_04-A_1_b_2"
+   },
+   {
+    "name": "Cliff_04-A_1_b_3"
+   },
+   {
+    "name": "Cliff_04-A_1_c_1"
+   },
+   {
+    "name": "Cliff_04-A_2_a_1"
+   },
+   {
+    "name": "Cliff_04-A_2_b_1"
+   },
+   {
+    "name": "Cliff_04-A_2_b_2"
+   },
+   {
+    "name": "Cliff_04-A_2_b_3"
+   },
+   {
+    "name": "Cliff_04-A_2_c_1"
+   },
+   {
+    "name": "Cliff_04-A_2_d_1"
+   },
+   {
+    "name": "Cliff_05-A_1_b_1"
+   },
+   {
+    "name": "Cliff_05-A_1_b_2"
+   },
+   {
+    "name": "Cliff_05-A_1_b_3"
+   },
+   {
+    "name": "Cliff_05-A_1_c_1"
+   },
+   {
+    "name": "Cliff_05-A_2_a_1"
+   },
+   {
+    "name": "Cliff_05-A_2_b_1"
+   },
+   {
+    "name": "Cliff_05-A_2_b_2"
+   },
+   {
+    "name": "Cliff_05-A_2_b_3"
+   },
+   {
+    "name": "Cliff_05-A_2_b_4"
+   },
+   {
+    "name": "Cliff_05-A_2_c_1"
+   },
+   {
+    "name": "Cliff_05-A_2_d_1"
+   },
+   {
+    "name": "Cliff_05-B_1_b_1"
+   },
+   {
+    "name": "Cliff_05-B_1_b_2"
+   },
+   {
+    "name": "Cliff_05-B_1_b_3"
+   },
+   {
+    "name": "Cliff_05-B_1_c_1"
+   },
+   {
+    "name": "Cliff_05-B_2_a_1"
+   },
+   {
+    "name": "Cliff_05-B_2_b_1"
+   },
+   {
+    "name": "Cliff_05-B_2_b_2"
+   },
+   {
+    "name": "Cliff_05-B_2_b_3"
+   },
+   {
+    "name": "Cliff_05-B_2_c_1"
+   },
+   {
+    "name": "Cliff_05-B_2_d_1"
+   },
+   {
+    "name": "Cliff_06-A_1_b_1"
+   },
+   {
+    "name": "Cliff_06-A_1_b_3"
+   },
+   {
+    "name": "Cliff_06-A_1_c_1"
+   },
+   {
+    "name": "Cliff_06-A_2_a_1"
+   },
+   {
+    "name": "Cliff_06-A_2_b_1"
+   },
+   {
+    "name": "Cliff_06-A_2_b_2"
+   },
+   {
+    "name": "Cliff_06-A_2_b_3"
+   },
+   {
+    "name": "Cliff_06-A_2_c_1"
+   },
+   {
+    "name": "Cliff_06-A_2_d_1"
+   },
+   {
+    "name": "Cliff_06-B_2_a_1"
+   },
+   {
+    "name": "Cliff_06-B_2_b_1"
+   },
+   {
+    "name": "Cliff_06-B_2_b_2"
+   },
+   {
+    "name": "Cliff_06-B_2_b_3"
+   },
+   {
+    "name": "Cliff_06-B_2_b_4"
+   },
+   {
+    "name": "Cliff_06-B_2_c_1"
+   },
+   {
+    "name": "Cliff_06-B_2_d_1"
+   },
+   {
+    "name": "Cliff_06-C_2_a_1"
+   },
+   {
+    "name": "Cliff_06-C_2_b_1"
+   },
+   {
+    "name": "Cliff_06-C_2_b_2"
+   },
+   {
+    "name": "Cliff_06-C_2_b_3"
+   },
+   {
+    "name": "Cliff_06-C_2_b_4"
+   },
+   {
+    "name": "Cliff_06-C_2_c_1"
+   },
+   {
+    "name": "Cliff_06-C_2_d_1"
+   },
+   {
+    "name": "Cliff_07-A_1_b_2"
+   },
+   {
+    "name": "Cliff_07-A_1_c_1"
+   },
+   {
+    "name": "Cliff_07-A_2_b_1"
+   },
+   {
+    "name": "Cliff_07-A_2_b_2"
+   },
+   {
+    "name": "Cliff_07-A_2_b_4"
+   },
+   {
+    "name": "Cliff_07-A_2_c_1"
+   },
+   {
+    "name": "Cliff_07-A_2_c_2"
+   },
+   {
+    "name": "Cliff_08-B_2_a_1"
+   },
+   {
+    "name": "Cliff_08-B_2_b_1"
+   },
+   {
+    "name": "Cliff_08-B_2_b_2"
+   },
+   {
+    "name": "Cliff_08-B_2_b_3"
+   },
+   {
+    "name": "Cliff_08-B_2_b_4"
+   },
+   {
+    "name": "Cliff_08-B_2_c_1"
+   },
+   {
+    "name": "Cliff_08-B_2_d_1"
+   },
+   {
+    "name": "Cliff_09-A_1_b_1"
+   },
+   {
+    "name": "Cliff_09-A_1_c_1"
+   },
+   {
+    "name": "Cliff_09-A_1_d_2"
+   },
+   {
+    "name": "Cliff_09-A_2_a_1"
+   },
+   {
+    "name": "Cliff_09-A_2_b_1"
+   },
+   {
+    "name": "Cliff_09-A_2_c_1"
+   },
+   {
+    "name": "Cliff_09-A_2_d_2"
+   },
+   {
+    "name": "Cliff_10-A_2_a_1"
+   },
+   {
+    "name": "Cliff_10-A_2_b_1"
+   },
+   {
+    "name": "Cliff_10-A_2_c_1"
+   },
+   {
+    "name": "Cliff_10-A_2_d_2"
+   },
+   {
+    "name": "Cliff_11-B_2_a_1"
+   },
+   {
+    "name": "Cliff_11-B_2_b_1"
+   },
+   {
+    "name": "Cliff_11-B_2_b_2"
+   },
+   {
+    "name": "Cliff_11-B_2_b_3"
+   },
+   {
+    "name": "Cliff_11-B_2_b_4"
+   },
+   {
+    "name": "Cliff_11-B_2_c_1"
+   },
+   {
+    "name": "Cliff_11-B_2_d_1"
+   },
+   {
+    "name": "Cliff_12-A_2_a_1"
+   },
+   {
+    "name": "Cliff_12-A_2_b_1"
+   },
+   {
+    "name": "Cliff_12-A_2_b_2"
+   },
+   {
+    "name": "Cliff_12-A_2_b_3"
+   },
+   {
+    "name": "Cliff_12-A_2_b_4"
+   },
+   {
+    "name": "Cliff_12-A_2_c_1"
+   },
+   {
+    "name": "Cliff_12-A_2_d_1"
+   },
+   {
+    "name": "Cliff_13-A_2_a_1"
+   },
+   {
+    "name": "Cliff_13-A_2_b_1"
+   },
+   {
+    "name": "Cliff_13-A_2_b_2"
+   },
+   {
+    "name": "Cliff_13-A_2_b_3"
+   },
+   {
+    "name": "Cliff_13-A_2_b_4"
+   },
+   {
+    "name": "Cliff_13-A_2_c_1"
+   },
+   {
+    "name": "Cliff_13-A_2_d_1"
+   },
+   {
+    "name": "Cliff_t01-A_1_b_1"
+   },
+   {
+    "name": "Cliff_t01-A_1_b_2"
+   },
+   {
+    "name": "Cliff_t01-A_1_b_3"
+   },
+   {
+    "name": "Cliff_t01-A_1_c_1"
+   },
+   {
+    "name": "Cliff_t01-A_2_a_1"
+   },
+   {
+    "name": "Cliff_t01-A_2_b_1"
+   },
+   {
+    "name": "Cliff_t01-A_2_b_2"
+   },
+   {
+    "name": "Cliff_t01-A_2_b_3"
+   },
+   {
+    "name": "Cliff_t01-A_2_b_4"
+   },
+   {
+    "name": "Cliff_t01-A_2_c_1"
+   },
+   {
+    "name": "Cliff_t01-A_2_d_1"
+   },
+   {
+    "name": "Cliff_t01-B_1_b_1"
+   },
+   {
+    "name": "Cliff_t01-B_1_b_2"
+   },
+   {
+    "name": "Cliff_t01-B_1_b_3"
+   },
+   {
+    "name": "Cliff_t01-B_1_c_1"
+   },
+   {
+    "name": "Cliff_t01-B_2_a_1"
+   },
+   {
+    "name": "Cliff_t01-B_2_b_1"
+   },
+   {
+    "name": "Cliff_t01-B_2_b_2"
+   },
+   {
+    "name": "Cliff_t01-B_2_b_3"
+   },
+   {
+    "name": "Cliff_t01-B_2_c_1"
+   },
+   {
+    "name": "Cliff_t01-B_2_d_1"
+   },
+   {
+    "name": "Cliff_t03-A_1_b_1"
+   },
+   {
+    "name": "Cliff_t03-A_1_b_2"
+   },
+   {
+    "name": "Cliff_t03-A_1_b_3"
+   },
+   {
+    "name": "Cliff_t03-A_1_c_1"
+   },
+   {
+    "name": "Cliff_t03-A_2_a_1"
+   },
+   {
+    "name": "Cliff_t03-A_2_b_1"
+   },
+   {
+    "name": "Cliff_t03-A_2_b_2"
+   },
+   {
+    "name": "Cliff_t03-A_2_b_3"
+   },
+   {
+    "name": "Cliff_t03-A_2_b_4"
+   },
+   {
+    "name": "Cliff_t03-A_2_c_1"
+   },
+   {
+    "name": "Cliff_t03-A_2_d_1"
+   },
+   {
+    "name": "Cliff_t05-A_1_b_1"
+   },
+   {
+    "name": "Cliff_t05-A_1_b_2"
+   },
+   {
+    "name": "Cliff_t05-A_1_b_3"
+   },
+   {
+    "name": "Cliff_t05-A_1_c_1"
+   },
+   {
+    "name": "Cliff_t05-A_2_a_1"
+   },
+   {
+    "name": "Cliff_t05-A_2_b_1"
+   },
+   {
+    "name": "Cliff_t05-A_2_b_2"
+   },
+   {
+    "name": "Cliff_t05-A_2_b_3"
+   },
+   {
+    "name": "Cliff_t05-A_2_b_4"
+   },
+   {
+    "name": "Cliff_t05-A_2_c_1"
+   },
+   {
+    "name": "Cliff_t05-A_2_d_1"
+   },
+   {
+    "name": "Cliff_t06-A_2_a_1"
+   },
+   {
+    "name": "Cliff_t06-A_2_b_1"
+   },
+   {
+    "name": "Cliff_t06-A_2_b_2"
+   },
+   {
+    "name": "Cliff_t06-A_2_b_3"
+   },
+   {
+    "name": "Cliff_t06-A_2_b_4"
+   },
+   {
+    "name": "Cliff_t06-A_2_c_1"
+   },
+   {
+    "name": "Cliff_t06-A_2_d_1"
+   },
+   {
+    "name": "Cliff_t08-A_2_a_1"
+   },
+   {
+    "name": "Cliff_t08-A_2_b_2"
+   },
+   {
+    "name": "Cliff_t08-A_2_b_3"
+   },
+   {
+    "name": "Cliff_t08-A_2_b_4"
+   },
+   {
+    "name": "Cliff_t08-A_2_c_1"
+   },
+   {
+    "name": "Cliff_t08-A_2_d_1"
+   },
+   {
+    "name": "Cliff_t08-B_2_a_1"
+   },
+   {
+    "name": "Cliff_t08-B_2_b_1"
+   },
+   {
+    "name": "Cliff_t08-B_2_b_2"
+   },
+   {
+    "name": "Cliff_t08-B_2_b_3"
+   },
+   {
+    "name": "Cliff_t08-B_2_b_4"
+   },
+   {
+    "name": "Cliff_t08-B_2_c_1"
+   },
+   {
+    "name": "Cliff_t08-B_2_d_1"
+   },
+   {
+    "name": "gride_measure_001"
+   },
+   {
+    "name": "Ground_Empty"
+   },
+   {
+    "name": "Ground_int01_001"
+   },
+   {
+    "name": "Ground_int02_001"
+   },
+   {
+    "name": "Ground_int02_002"
+   },
+   {
+    "name": "Ground_int02_003"
+   },
+   {
+    "name": "Ground_int03_001"
+   },
+   {
+    "name": "Ground_int04_001"
+   },
+   {
+    "name": "Ground_int04_002"
+   },
+   {
+    "name": "Ground_int04_003"
+   },
+   {
+    "name": "Ground_int04_004"
+   },
+   {
+    "name": "Ground_int06_001"
+   },
+   {
+    "name": "Ground_t01_001"
+   },
+   {
+    "name": "Ground_t01_002"
+   },
+   {
+    "name": "Ground_t01_003"
+   },
+   {
+    "name": "Ground_t02_001"
+   },
+   {
+    "name": "Ground_t03_001"
+   },
+   {
+    "name": "Ground_t05_001"
+   },
+   {
+    "name": "Ground_t06_001"
+   },
+   {
+    "name": "Ground_t06_002"
+   },
+   {
+    "name": "Ground_t06_003"
+   },
+   {
+    "name": "Ground_t06_2_001"
+   },
+   {
+    "name": "Ground_t06_2_002"
+   },
+   {
+    "name": "Ground_t06_2_003"
+   },
+   {
+    "name": "Ground_t06_2_004"
+   },
+   {
+    "name": "Ground_t06_2_005"
+   },
+   {
+    "name": "Ground_ter01_001"
+   },
+   {
+    "name": "Ground_ter01_002"
+   },
+   {
+    "name": "Ground_ter02_001"
+   },
+   {
+    "name": "Ground_ter03_001"
+   },
+   {
+    "name": "Ground_ter04_001"
+   },
+   {
+    "name": "Ground_ter04_002"
+   },
+   {
+    "name": "Ground_ter05_001"
+   },
+   {
+    "name": "Ground_ter06_001"
+   },
+   {
+    "name": "Waterfall_01-A_0_b_1"
+   },
+   {
+    "name": "Waterfall_01-A_0_b_2"
+   },
+   {
+    "name": "Waterfall_01-A_1_a_1"
+   },
+   {
+    "name": "Waterfall_01-A_1_b_1"
+   },
+   {
+    "name": "Waterfall_01-A_1_b_2"
+   },
+   {
+    "name": "Waterfall_01-A_2_b_1"
+   },
+   {
+    "name": "Waterfall_01-A_2_b_2"
+   },
+   {
+    "name": "Waterfall_01-B_0_b_1"
+   },
+   {
+    "name": "Waterfall_01-B_1_b_1"
+   },
+   {
+    "name": "Waterfall_01-B_2_b_1"
+   },
+   {
+    "name": "Waterfall_02-A_1_b_1"
+   },
+   {
+    "name": "Waterfall_02-A_1_b_2"
+   },
+   {
+    "name": "Waterfall_02-B_1_b_1"
+   },
+   {
+    "name": "Water_01-A_0_a_1"
+   },
+   {
+    "name": "Water_01-A_0_b_1"
+   },
+   {
+    "name": "Water_01-A_0_c_1"
+   },
+   {
+    "name": "Water_01-A_0_d_1"
+   },
+   {
+    "name": "Water_02-A_0_a_1"
+   },
+   {
+    "name": "Water_02-A_0_b_1"
+   },
+   {
+    "name": "Water_02-A_0_c_1"
+   },
+   {
+    "name": "Water_02-A_0_d_1"
+   },
+   {
+    "name": "Water_03-A_0_a_1"
+   },
+   {
+    "name": "Water_03-A_0_b_1"
+   },
+   {
+    "name": "Water_03-A_0_c_1"
+   },
+   {
+    "name": "Water_03-A_0_d_1"
+   },
+   {
+    "name": "Water_04-A_0_a_1"
+   },
+   {
+    "name": "Water_04-A_0_b_1"
+   },
+   {
+    "name": "Water_04-A_0_c_1"
+   },
+   {
+    "name": "Water_04-A_0_d_1"
+   },
+   {
+    "name": "Water_05-A_0_a_1"
+   },
+   {
+    "name": "Water_05-A_0_b_1"
+   },
+   {
+    "name": "Water_05-A_0_c_1"
+   },
+   {
+    "name": "Water_05-A_0_d_1"
+   },
+   {
+    "name": "Water_06-A_0_a_1"
+   },
+   {
+    "name": "Water_06-A_0_b_1"
+   },
+   {
+    "name": "Water_06-A_0_b_2"
+   },
+   {
+    "name": "Water_06-A_0_b_3"
+   },
+   {
+    "name": "Water_06-A_0_c_1"
+   },
+   {
+    "name": "Water_06-A_0_d_1"
+   },
+   {
+    "name": "Water_07-A_0_a_1"
+   },
+   {
+    "name": "Water_08-A_0_a_1"
+   },
+   {
+    "name": "Water_09-A_0_a_1"
+   },
+   {
+    "name": "Path_01-A_a_1"
+   },
+   {
+    "name": "Path_01-A_b_1"
+   },
+   {
+    "name": "Path_01-A_c_1"
+   },
+   {
+    "name": "Path_01-A_d_1"
+   },
+   {
+    "name": "Path_01-B_a_1"
+   },
+   {
+    "name": "Path_01-B_b_1"
+   },
+   {
+    "name": "Path_01-B_c_1"
+   },
+   {
+    "name": "Path_01-B_d_1"
+   },
+   {
+    "name": "Path_01-C_a_1"
+   },
+   {
+    "name": "Path_01-C_b_1"
+   },
+   {
+    "name": "Path_01-C_b_2"
+   },
+   {
+    "name": "Path_01-C_b_3"
+   },
+   {
+    "name": "Path_01-C_b_4"
+   },
+   {
+    "name": "Path_01-C_c_1"
+   },
+   {
+    "name": "Path_01-C_d_1"
+   },
+   {
+    "name": "Path_02-A_a_1"
+   },
+   {
+    "name": "Path_02-A_b_1"
+   },
+   {
+    "name": "Path_02-A_c_1"
+   },
+   {
+    "name": "Path_02-A_d_1"
+   },
+   {
+    "name": "Path_02-B_a_1"
+   },
+   {
+    "name": "Path_02-B_b_1"
+   },
+   {
+    "name": "Path_02-B_c_1"
+   },
+   {
+    "name": "Path_02-B_d_1"
+   },
+   {
+    "name": "Path_02-C_a_1"
+   },
+   {
+    "name": "Path_02-C_b_1"
+   },
+   {
+    "name": "Path_02-C_c_1"
+   },
+   {
+    "name": "Path_02-C_d_1"
+   },
+   {
+    "name": "Path_03-A_a_1"
+   },
+   {
+    "name": "Path_03-A_b_1"
+   },
+   {
+    "name": "Path_03-A_c_1"
+   },
+   {
+    "name": "Path_03-A_d_1"
+   },
+   {
+    "name": "Path_03-B_a_1"
+   },
+   {
+    "name": "Path_03-B_b_1"
+   },
+   {
+    "name": "Path_03-B_c_1"
+   },
+   {
+    "name": "Path_03-B_d_1"
+   },
+   {
+    "name": "Path_03-C_a_1"
+   },
+   {
+    "name": "Path_03-C_b_1"
+   },
+   {
+    "name": "Path_03-C_b_2"
+   },
+   {
+    "name": "Path_03-C_b_3"
+   },
+   {
+    "name": "Path_03-C_b_4"
+   },
+   {
+    "name": "Path_03-C_c_1"
+   },
+   {
+    "name": "Path_03-C_d_1"
+   },
+   {
+    "name": "Path_04-A_a_1"
+   },
+   {
+    "name": "Path_04-A_b_1"
+   },
+   {
+    "name": "Path_04-A_b_2"
+   },
+   {
+    "name": "Path_04-A_b_3"
+   },
+   {
+    "name": "Path_04-A_b_4"
+   },
+   {
+    "name": "Path_04-A_c_1"
+   },
+   {
+    "name": "Path_04-A_d_1"
+   },
+   {
+    "name": "Path_04-B_a_1"
+   },
+   {
+    "name": "Path_04-B_b_1"
+   },
+   {
+    "name": "Path_04-B_c_1"
+   },
+   {
+    "name": "Path_04-B_d_1"
+   },
+   {
+    "name": "Path_04-C_a_1"
+   },
+   {
+    "name": "Path_04-C_b_1"
+   },
+   {
+    "name": "Path_04-C_b_2"
+   },
+   {
+    "name": "Path_04-C_b_3"
+   },
+   {
+    "name": "Path_04-C_b_4"
+   },
+   {
+    "name": "Path_04-C_c_1"
+   },
+   {
+    "name": "Path_04-C_d_1"
+   },
+   {
+    "name": "Path_05-A_a_1"
+   },
+   {
+    "name": "Path_05-A_b_1"
+   },
+   {
+    "name": "Path_05-A_c_1"
+   },
+   {
+    "name": "Path_05-A_d_1"
+   },
+   {
+    "name": "Path_05-B_a_1"
+   },
+   {
+    "name": "Path_05-B_b_1"
+   },
+   {
+    "name": "Path_05-B_c_1"
+   },
+   {
+    "name": "Path_05-B_d_1"
+   },
+   {
+    "name": "Path_05-C_a_1"
+   },
+   {
+    "name": "Path_05-C_b_1"
+   },
+   {
+    "name": "Path_05-C_b_2"
+   },
+   {
+    "name": "Path_05-C_b_3"
+   },
+   {
+    "name": "Path_05-C_b_4"
+   },
+   {
+    "name": "Path_05-C_c_1"
+   },
+   {
+    "name": "Path_05-C_d_1"
+   },
+   {
+    "name": "Path_06-A_a_1"
+   },
+   {
+    "name": "Path_06-A_b_1"
+   },
+   {
+    "name": "Path_06-A_b_2"
+   },
+   {
+    "name": "Path_06-A_b_3"
+   },
+   {
+    "name": "Path_06-A_b_4"
+   },
+   {
+    "name": "Path_06-A_c_1"
+   },
+   {
+    "name": "Path_06-A_d_1"
+   },
+   {
+    "name": "Path_06-B_a_1"
+   },
+   {
+    "name": "Path_06-B_b_1"
+   },
+   {
+    "name": "Path_06-B_c_1"
+   },
+   {
+    "name": "Path_06-B_d_1"
+   },
+   {
+    "name": "Path_06-C_a_1"
+   },
+   {
+    "name": "Path_06-C_b_1"
+   },
+   {
+    "name": "Path_06-C_b_2"
+   },
+   {
+    "name": "Path_06-C_b_3"
+   },
+   {
+    "name": "Path_06-C_b_4"
+   },
+   {
+    "name": "Path_06-C_c_1"
+   },
+   {
+    "name": "Path_06-C_d_1"
+   },
+   {
+    "name": "Path_07-A_a_1"
+   },
+   {
+    "name": "Path_07-A_b_1"
+   },
+   {
+    "name": "Path_07-A_b_2"
+   },
+   {
+    "name": "Path_07-A_b_3"
+   },
+   {
+    "name": "Path_07-A_b_4"
+   },
+   {
+    "name": "Path_07-A_c_1"
+   },
+   {
+    "name": "Path_07-A_d_1"
+   },
+   {
+    "name": "Path_07-B_a_1"
+   },
+   {
+    "name": "Path_07-B_b_1"
+   },
+   {
+    "name": "Path_07-B_c_1"
+   },
+   {
+    "name": "Path_07-B_d_1"
+   },
+   {
+    "name": "Path_07-C_a_1"
+   },
+   {
+    "name": "Path_07-C_b_1"
+   },
+   {
+    "name": "Path_07-C_b_2"
+   },
+   {
+    "name": "Path_07-C_b_3"
+   },
+   {
+    "name": "Path_07-C_b_4"
+   },
+   {
+    "name": "Path_07-C_c_1"
+   },
+   {
+    "name": "Path_07-C_d_1"
+   },
+   {
+    "name": "Path_09-A_a_1"
+   },
+   {
+    "name": "Path_09-A_b_1"
+   },
+   {
+    "name": "Path_09-A_c_1"
+   },
+   {
+    "name": "Path_09-A_d_1"
+   },
+   {
+    "name": "Path_10-A_a_1"
+   },
+   {
+    "name": "Path_10-A_b_1"
+   },
+   {
+    "name": "Path_10-A_c_1"
+   },
+   {
+    "name": "Path_10-A_d_1"
+   },
+   {
+    "name": "Path_10-B_a_1"
+   },
+   {
+    "name": "Path_10-B_b_1"
+   },
+   {
+    "name": "Path_10-B_c_1"
+   },
+   {
+    "name": "Path_10-B_d_1"
+   },
+   {
+    "name": "Path_10-C_a_1"
+   },
+   {
+    "name": "Path_10-C_b_1"
+   },
+   {
+    "name": "Path_10-C_b_2"
+   },
+   {
+    "name": "Path_10-C_b_3"
+   },
+   {
+    "name": "Path_10-C_b_4"
+   },
+   {
+    "name": "Path_10-C_c_1"
+   },
+   {
+    "name": "Path_10-C_d_1"
+   },
+   {
+    "name": "Path_11-A_a_1"
+   },
+   {
+    "name": "Path_11-A_b_1"
+   },
+   {
+    "name": "Path_11-A_b_2"
+   },
+   {
+    "name": "Path_11-A_b_3"
+   },
+   {
+    "name": "Path_11-A_b_4"
+   },
+   {
+    "name": "Path_11-A_c_1"
+   },
+   {
+    "name": "Path_11-A_d_1"
+   },
+   {
+    "name": "Path_11-B_a_1"
+   },
+   {
+    "name": "Path_11-B_b_1"
+   },
+   {
+    "name": "Path_11-B_c_1"
+   },
+   {
+    "name": "Path_11-B_d_1"
+   },
+   {
+    "name": "Path_11-C_a_1"
+   },
+   {
+    "name": "Path_11-C_b_1"
+   },
+   {
+    "name": "Path_11-C_b_2"
+   },
+   {
+    "name": "Path_11-C_b_3"
+   },
+   {
+    "name": "Path_11-C_b_4"
+   },
+   {
+    "name": "Path_11-C_c_1"
+   },
+   {
+    "name": "Path_11-C_d_1"
+   },
+   {
+    "name": "Path_t01-A_a_1"
+   },
+   {
+    "name": "Path_t01-A_b_1"
+   },
+   {
+    "name": "Path_t01-A_c_1"
+   },
+   {
+    "name": "Path_t01-A_d_1"
+   },
+   {
+    "name": "Path_t01-B_a_1"
+   },
+   {
+    "name": "Path_t01-B_b_1"
+   },
+   {
+    "name": "Path_t01-B_c_1"
+   },
+   {
+    "name": "Path_t01-B_d_1"
+   },
+   {
+    "name": "Path_t01-C_a_1"
+   },
+   {
+    "name": "Path_t01-C_b_1"
+   },
+   {
+    "name": "Path_t01-C_b_2"
+   },
+   {
+    "name": "Path_t01-C_b_3"
+   },
+   {
+    "name": "Path_t01-C_b_4"
+   },
+   {
+    "name": "Path_t01-C_c_1"
+   },
+   {
+    "name": "Path_t01-C_d_1"
+   },
+   {
+    "name": "Path_t01-D_a_1"
+   },
+   {
+    "name": "Path_t01-D_b_1"
+   },
+   {
+    "name": "Path_t01-D_c_1"
+   },
+   {
+    "name": "Path_t01-D_d_1"
+   },
+   {
+    "name": "Path_t01-E_a_1"
+   },
+   {
+    "name": "Path_t01-E_b_1"
+   },
+   {
+    "name": "Path_t01-E_c_1"
+   },
+   {
+    "name": "Path_t01-E_d_1"
+   },
+   {
+    "name": "Path_t01-F_a_1"
+   },
+   {
+    "name": "Path_t01-F_b_1"
+   },
+   {
+    "name": "Path_t01-F_c_1"
+   },
+   {
+    "name": "Path_t01-F_d_1"
+   },
+   {
+    "name": "Path_t03-A_a_1"
+   },
+   {
+    "name": "Path_t03-A_b_1"
+   },
+   {
+    "name": "Path_t03-A_c_1"
+   },
+   {
+    "name": "Path_t03-A_d_1"
+   },
+   {
+    "name": "Path_t03-B_a_1"
+   },
+   {
+    "name": "Path_t03-B_b_1"
+   },
+   {
+    "name": "Path_t03-B_c_1"
+   },
+   {
+    "name": "Path_t03-B_d_1"
+   },
+   {
+    "name": "Path_t03-C_a_1"
+   },
+   {
+    "name": "Path_t03-C_b_1"
+   },
+   {
+    "name": "Path_t03-C_b_2"
+   },
+   {
+    "name": "Path_t03-C_b_3"
+   },
+   {
+    "name": "Path_t03-C_b_4"
+   },
+   {
+    "name": "Path_t03-C_c_1"
+   },
+   {
+    "name": "Path_t03-C_d_1"
+   },
+   {
+    "name": "Path_t05-A_a_1"
+   },
+   {
+    "name": "Path_t05-A_b_1"
+   },
+   {
+    "name": "Path_t05-A_b_2"
+   },
+   {
+    "name": "Path_t05-A_b_3"
+   },
+   {
+    "name": "Path_t05-A_b_4"
+   },
+   {
+    "name": "Path_t05-A_c_1"
+   },
+   {
+    "name": "Path_t05-A_d_1"
+   },
+   {
+    "name": "Path_t05-B_a_1"
+   },
+   {
+    "name": "Path_t05-B_b_1"
+   },
+   {
+    "name": "Path_t05-B_c_1"
+   },
+   {
+    "name": "Path_t05-B_d_1"
+   },
+   {
+    "name": "Path_t05-C_a_1"
+   },
+   {
+    "name": "Path_t05-C_b_1"
+   },
+   {
+    "name": "Path_t05-C_c_1"
+   },
+   {
+    "name": "Path_t05-C_d_1"
+   },
+   {
+    "name": "Path_t05-D_a_1"
+   },
+   {
+    "name": "Path_t07-A_a_1"
+   },
+   {
+    "name": "Path_t07-A_b_1"
+   },
+   {
+    "name": "Path_t07-A_b_2"
+   },
+   {
+    "name": "Path_t07-A_b_3"
+   },
+   {
+    "name": "Path_t07-A_b_4"
+   },
+   {
+    "name": "Path_t07-A_c_1"
+   },
+   {
+    "name": "Path_t07-A_d_1"
+   },
+   {
+    "name": "Path_t07-B_a_1"
+   },
+   {
+    "name": "Path_t07-B_b_1"
+   },
+   {
+    "name": "Path_t07-B_c_1"
+   },
+   {
+    "name": "Path_t07-B_d_1"
+   },
+   {
+    "name": "Path_t08-A_a_1"
+   },
+   {
+    "name": "Path_t08-A_b_1"
+   },
+   {
+    "name": "Path_t08-A_b_2"
+   },
+   {
+    "name": "Path_t08-A_b_3"
+   },
+   {
+    "name": "Path_t08-A_b_4"
+   },
+   {
+    "name": "Path_t08-A_c_1"
+   },
+   {
+    "name": "Path_t08-A_d_1"
+   },
+   {
+    "name": "Path_t08-B_a_1"
+   },
+   {
+    "name": "Path_t08-B_b_1"
+   },
+   {
+    "name": "Path_t08-B_c_1"
+   },
+   {
+    "name": "Path_t08-B_d_1"
+   }
+  ],
+  "containNameFreeze": [
+   "newPlane_"
+  ]
+ },
+ "landTypeClassfication": {
+  "landtypes": [
+   {
+    "landType": 0,
+    "landTypeName": "Ground",
+    "names": [
+     "Ground_t01_001",
+     "Ground_t01_002",
+     "Ground_t02_001",
+     "Ground_t03_001",
+     "Ground_t05_001",
+     "Ground_t06_001",
+     "Ground_t06_002",
+     "Ground_t06_003",
+     "Ground_t06_2_001",
+     "Ground_t06_2_002",
+     "Ground_t06_2_003",
+     "Ground_t06_2_004",
+     "Ground_t06_2_005",
+     "Ground_ter01_001",
+     "Ground_ter01_002",
+     "Ground_ter02_001",
+     "Ground_ter03_001",
+     "Ground_ter04_001",
+     "Ground_ter04_002",
+     "Ground_ter05_001",
+     "Ground_ter06_001",
+     "Ground_int01_001",
+     "Ground_int02_001",
+     "Ground_int02_002",
+     "Ground_int03_001",
+     "Ground_t01_003",
+     "Ground_int04_001",
+     "Ground_int04_002",
+     "Ground_int06_001",
+     "Ground_int04_003",
+     "Ground_int04_004"
+    ]
+   },
+   {
+    "landType": 1,
+    "landTypeName": "Grass",
+    "names": [
+     "Cliff_01-A_2_a_1",
+     "Cliff_01-A_2_b_1",
+     "Cliff_01-A_2_b_2",
+     "Cliff_01-A_2_b_3",
+     "Cliff_01-A_2_b_4",
+     "Cliff_01-A_2_c_1",
+     "Cliff_01-A_2_d_1",
+     "Cliff_01-A_1_b_1",
+     "Cliff_01-A_1_b_2",
+     "Cliff_01-A_1_b_3",
+     "Cliff_01-A_1_c_1",
+     "Cliff_07-A_2_b_1",
+     "Cliff_07-A_2_b_2",
+     "Cliff_07-A_2_b_4",
+     "Cliff_07-A_2_c_1",
+     "Cliff_07-A_2_c_2",
+     "Cliff_12-A_2_a_1",
+     "Cliff_12-A_2_b_1",
+     "Cliff_12-A_2_b_2",
+     "Cliff_12-A_2_b_3",
+     "Cliff_12-A_2_b_4",
+     "Cliff_12-A_2_c_1",
+     "Cliff_12-A_2_d_1",
+     "Cliff_13-A_2_a_1",
+     "Cliff_13-A_2_b_1",
+     "Cliff_13-A_2_b_2",
+     "Cliff_13-A_2_b_3",
+     "Cliff_13-A_2_b_4",
+     "Cliff_13-A_2_c_1",
+     "Cliff_13-A_2_d_1",
+     "Cliff_t03-A_2_a_1",
+     "Cliff_t03-A_2_b_1",
+     "Cliff_t03-A_2_b_2",
+     "Cliff_t03-A_2_b_3",
+     "Cliff_t03-A_2_b_4",
+     "Cliff_t03-A_2_c_1",
+     "Cliff_t03-A_2_d_1",
+     "Cliff_t08-A_2_a_1",
+     "Cliff_t08-A_2_b_2",
+     "Cliff_t08-A_2_b_3",
+     "Cliff_t08-A_2_b_4",
+     "Cliff_t08-A_2_c_1",
+     "Cliff_t08-A_2_d_1",
+     "Cliff_t01-B_1_b_1",
+     "Cliff_t01-B_1_b_2",
+     "Cliff_t01-B_1_b_3",
+     "Cliff_t01-B_1_c_1",
+     "Cliff_06-B_2_a_1",
+     "Cliff_06-B_2_b_1",
+     "Cliff_06-B_2_b_2",
+     "Cliff_06-B_2_b_3",
+     "Cliff_06-B_2_b_4",
+     "Cliff_06-B_2_c_1",
+     "Cliff_06-B_2_d_1",
+     "Cliff_06-C_2_a_1",
+     "Cliff_06-C_2_b_1",
+     "Cliff_06-C_2_b_2",
+     "Cliff_06-C_2_b_3",
+     "Cliff_06-C_2_b_4",
+     "Cliff_06-C_2_c_1",
+     "Cliff_06-C_2_d_1",
+     "Cliff_09-A_1_b_1",
+     "Cliff_09-A_1_c_1",
+     "Cliff_09-A_2_a_1",
+     "Cliff_09-A_2_b_1",
+     "Cliff_09-A_2_c_1",
+     "Cliff_09-A_2_d_2",
+     "Cliff_01-C_1_b_1",
+     "Cliff_01-C_1_b_2",
+     "Cliff_01-C_1_b_3",
+     "Cliff_01-C_1_c_1",
+     "Cliff_01-C_2_b_1",
+     "Cliff_01-C_2_b_2",
+     "Cliff_01-C_2_b_3",
+     "Cliff_01-C_2_c_1",
+     "Cliff_01-C_2_d_1",
+     "Cliff_01-B_2_a_1",
+     "Cliff_01-B_2_b_1",
+     "Cliff_01-B_2_b_2",
+     "Cliff_01-B_2_b_3",
+     "Cliff_01-B_2_b_4",
+     "Cliff_01-B_2_c_1",
+     "Cliff_01-B_2_d_1",
+     "Cliff_11-B_2_a_1",
+     "Cliff_11-B_2_b_1",
+     "Cliff_11-B_2_b_2",
+     "Cliff_11-B_2_b_3",
+     "Cliff_11-B_2_b_4",
+     "Cliff_11-B_2_c_1",
+     "Cliff_11-B_2_d_1",
+     "Cliff_t01-A_2_a_1",
+     "Cliff_t01-A_2_b_1",
+     "Cliff_t01-A_2_b_2",
+     "Cliff_t01-A_2_b_3",
+     "Cliff_t01-A_2_b_4",
+     "Cliff_t01-A_2_c_1",
+     "Cliff_t01-A_2_d_1",
+     "Cliff_t05-A_1_b_1",
+     "Cliff_t05-A_1_b_2",
+     "Cliff_t05-A_1_b_3",
+     "Cliff_t05-A_1_c_1",
+     "Cliff_t05-A_2_a_1",
+     "Cliff_t05-A_2_b_1",
+     "Cliff_t05-A_2_b_2",
+     "Cliff_t05-A_2_b_3",
+     "Cliff_t05-A_2_b_4",
+     "Cliff_t05-A_2_c_1",
+     "Cliff_t05-A_2_d_1",
+     "Cliff_t06-A_2_a_1",
+     "Cliff_t06-A_2_b_1",
+     "Cliff_t06-A_2_b_2",
+     "Cliff_t06-A_2_b_3",
+     "Cliff_t06-A_2_b_4",
+     "Cliff_t06-A_2_c_1",
+     "Cliff_t06-A_2_d_1",
+     "Cliff_t08-B_2_a_1",
+     "Cliff_t08-B_2_b_1",
+     "Cliff_t08-B_2_b_2",
+     "Cliff_t08-B_2_b_3",
+     "Cliff_t08-B_2_b_4",
+     "Cliff_t08-B_2_c_1",
+     "Cliff_t08-B_2_d_1",
+     "Cliff_01-B_1_b_1",
+     "Cliff_01-B_1_b_2",
+     "Cliff_01-B_1_b_3",
+     "Cliff_01-B_1_c_1",
+     "Cliff_07-A_1_b_2",
+     "Cliff_07-A_1_c_1",
+     "Cliff_t01-A_1_b_1",
+     "Cliff_t01-A_1_b_2",
+     "Cliff_t01-A_1_b_3",
+     "Cliff_t01-A_1_c_1",
+     "Cliff_t03-A_1_b_1",
+     "Cliff_t03-A_1_b_2",
+     "Cliff_t03-A_1_b_3",
+     "Cliff_t03-A_1_c_1",
+     "Cliff_09-A_1_d_2"
+    ]
+   },
+   {
+    "landType": 2,
+    "landTypeName": "Stone",
+    "names": [
+     "Cliff_03-A_2_a_1",
+     "Cliff_03-A_2_b_1",
+     "Cliff_03-A_2_b_2",
+     "Cliff_03-A_2_b_3",
+     "Cliff_03-A_2_c_1",
+     "Cliff_03-A_2_d_1",
+     "Cliff_04-A_1_b_1",
+     "Cliff_04-A_1_b_2",
+     "Cliff_04-A_1_b_3",
+     "Cliff_04-A_1_c_1",
+     "Cliff_04-A_2_a_1",
+     "Cliff_04-A_2_b_1",
+     "Cliff_04-A_2_b_2",
+     "Cliff_04-A_2_b_3",
+     "Cliff_04-A_2_c_1",
+     "Cliff_04-A_2_d_1",
+     "Cliff_02-A_2_a_1",
+     "Cliff_02-A_2_b_1",
+     "Cliff_02-A_2_b_2",
+     "Cliff_02-A_2_b_3",
+     "Cliff_02-A_2_c_1",
+     "Cliff_02-A_2_d_1",
+     "Cliff_05-B_1_b_1",
+     "Cliff_05-B_1_b_2",
+     "Cliff_05-B_1_b_3",
+     "Cliff_05-B_1_c_1",
+     "Cliff_06-A_1_b_1",
+     "Cliff_06-A_1_b_3",
+     "Cliff_06-A_1_c_1",
+     "Cliff_05-A_1_b_1",
+     "Cliff_05-A_1_b_2",
+     "Cliff_05-A_1_b_3",
+     "Cliff_05-A_1_c_1",
+     "Cliff_05-A_2_a_1",
+     "Cliff_05-A_2_b_1",
+     "Cliff_05-A_2_b_2",
+     "Cliff_05-A_2_b_3",
+     "Cliff_05-A_2_b_4",
+     "Cliff_05-A_2_c_1",
+     "Cliff_05-A_2_d_1",
+     "Cliff_05-B_2_a_1",
+     "Cliff_05-B_2_b_1",
+     "Cliff_05-B_2_b_2",
+     "Cliff_05-B_2_b_3",
+     "Cliff_05-B_2_c_1",
+     "Cliff_05-B_2_d_1",
+     "Cliff_06-A_2_a_1",
+     "Cliff_06-A_2_b_1",
+     "Cliff_06-A_2_b_2",
+     "Cliff_06-A_2_b_3",
+     "Cliff_06-A_2_c_1",
+     "Cliff_06-A_2_d_1",
+     "Cliff_07-A_1_b_2",
+     "Cliff_07-A_1_c_1"
+    ]
+   },
+   {
+    "landType": 3,
+    "landTypeName": "Water",
+    "names": [
+     "Water_01-A_0_a_1",
+     "Water_01-A_0_b_1",
+     "Water_01-A_0_c_1",
+     "Water_01-A_0_d_1",
+     "Water_02-A_0_a_1",
+     "Water_02-A_0_b_1",
+     "Water_02-A_0_c_1",
+     "Water_02-A_0_d_1",
+     "Water_03-A_0_a_1",
+     "Water_03-A_0_b_1",
+     "Water_03-A_0_c_1",
+     "Water_03-A_0_d_1",
+     "Water_04-A_0_a_1",
+     "Water_04-A_0_b_1",
+     "Water_04-A_0_c_1",
+     "Water_04-A_0_d_1",
+     "Water_05-A_0_a_1",
+     "Water_05-A_0_b_1",
+     "Water_05-A_0_c_1",
+     "Water_05-A_0_d_1",
+     "Water_06-A_0_a_1",
+     "Water_06-A_0_b_1",
+     "Water_06-A_0_c_1",
+     "Water_06-A_0_d_1",
+     "Water_06-A_0_b_2",
+     "Water_06-A_0_b_3",
+     "Water_07-A_0_a_1",
+     "Water_08-A_0_a_1",
+     "Water_09-A_0_a_1"
+    ]
+   },
+   {
+    "landType": 4,
+    "landTypeName": "Snow",
+    "names": [
+     "Cliff_08-B_2_a_1",
+     "Cliff_08-B_2_b_1",
+     "Cliff_08-B_2_b_2",
+     "Cliff_08-B_2_b_3",
+     "Cliff_08-B_2_b_4",
+     "Cliff_08-B_2_c_1",
+     "Cliff_08-B_2_d_1"
+    ]
+   },
+   {
+    "landType": 5,
+    "landTypeName": "Sand",
+    "names": [
+     "Cliff_10-A_2_a_1",
+     "Cliff_10-A_2_b_1",
+     "Cliff_10-A_2_c_1",
+     "Cliff_10-A_2_d_2",
+     "Cliff_t01-B_2_a_1",
+     "Cliff_t01-B_2_b_1",
+     "Cliff_t01-B_2_b_2",
+     "Cliff_t01-B_2_b_3",
+     "Cliff_t01-B_2_c_1",
+     "Cliff_t01-B_2_d_1"
+    ]
+   }
+  ]
+ },
+ "createPlaneHeight": {
+  "list": [
+   {
+    "name": "A",
+    "height": 0.004999999888241291
+   },
+   {
+    "name": "B",
+    "height": 0.004999999888241291
+   },
+   {
+    "name": "C",
+    "height": 0.004999999888241291
+   },
+   {
+    "name": "D",
+    "height": 0.004999999888241291
+   },
+   {
+    "name": "E",
+    "height": 0.004999999888241291
+   },
+   {
+    "name": "F",
+    "height": 0.004999999888241291
+   }
+  ]
+ },
+ "staticCombinePass": {
+  "list": [
+   {
+    "name": "synt01_machine_003"
+   }
+  ]
+ },
+ "_pieceRoles": {
+  "Cliff_01-A_2_a_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_01-A",
+    "role": "centerTiles"
+   }
+  ],
+  "Cliff_01-A_2_b_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_01-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_01-A_2_b_2": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_01-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_01-A_2_b_3": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_01-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_01-A_2_b_4": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_01-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_01-A_2_c_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_01-A",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Cliff_01-A_2_d_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_01-A",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Cliff_01-B_1_b_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_01-B",
+    "role": "groundEdgeTiles"
+   }
+  ],
+  "Cliff_01-B_1_b_2": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_01-B",
+    "role": "groundEdgeTiles"
+   }
+  ],
+  "Cliff_01-B_1_b_3": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_01-B",
+    "role": "groundEdgeTiles"
+   }
+  ],
+  "Cliff_01-B_1_c_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_01-B",
+    "role": "groundCornerTiles"
+   }
+  ],
+  "Cliff_01-B_2_a_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_01-B",
+    "role": "centerTiles"
+   }
+  ],
+  "Cliff_01-B_2_b_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_01-B",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_01-B_2_b_2": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_01-B",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_01-B_2_b_3": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_01-B",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_01-B_2_b_4": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_01-B",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_01-B_2_c_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_01-B",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Cliff_01-B_2_d_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_01-B",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Cliff_01-C_1_b_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_01-C",
+    "role": "groundEdgeTiles"
+   }
+  ],
+  "Cliff_01-C_1_b_2": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_01-C",
+    "role": "groundEdgeTiles"
+   }
+  ],
+  "Cliff_01-C_1_b_3": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_01-C",
+    "role": "groundEdgeTiles"
+   }
+  ],
+  "Cliff_01-C_1_c_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_01-C",
+    "role": "groundCornerTiles"
+   }
+  ],
+  "Cliff_01-C_2_b_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_01-C",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_01-C_2_b_2": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_01-C",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_01-C_2_b_3": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_01-C",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_01-C_2_c_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_01-C",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Cliff_01-C_2_d_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_01-C",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Cliff_02-A_2_a_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_02-A",
+    "role": "centerTiles"
+   }
+  ],
+  "Cliff_02-A_2_b_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_02-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_02-A_2_b_2": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_02-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_02-A_2_b_3": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_02-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_02-A_2_c_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_02-A",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Cliff_02-A_2_d_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_02-A",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Cliff_03-A_2_a_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_03-A",
+    "role": "centerTiles"
+   }
+  ],
+  "Cliff_03-A_2_b_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_03-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_03-A_2_b_2": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_03-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_03-A_2_b_3": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_03-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_03-A_2_c_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_03-A",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Cliff_03-A_2_d_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_03-A",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Cliff_04-A_1_b_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_04-A",
+    "role": "groundEdgeTiles"
+   }
+  ],
+  "Cliff_04-A_1_b_2": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_04-A",
+    "role": "groundEdgeTiles"
+   }
+  ],
+  "Cliff_04-A_1_b_3": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_04-A",
+    "role": "groundEdgeTiles"
+   }
+  ],
+  "Cliff_04-A_1_c_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_04-A",
+    "role": "groundCornerTiles"
+   }
+  ],
+  "Cliff_04-A_2_a_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_04-A",
+    "role": "centerTiles"
+   }
+  ],
+  "Cliff_04-A_2_b_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_04-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_04-A_2_b_2": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_04-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_04-A_2_b_3": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_04-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_04-A_2_c_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_04-A",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Cliff_04-A_2_d_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_04-A",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Cliff_05-A_1_b_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_05-A",
+    "role": "groundEdgeTiles"
+   }
+  ],
+  "Cliff_05-A_1_b_2": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_05-A",
+    "role": "groundEdgeTiles"
+   }
+  ],
+  "Cliff_05-A_1_b_3": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_05-A",
+    "role": "groundEdgeTiles"
+   }
+  ],
+  "Cliff_05-A_1_c_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_05-A",
+    "role": "groundCornerTiles"
+   }
+  ],
+  "Cliff_05-A_2_a_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_05-A",
+    "role": "centerTiles"
+   }
+  ],
+  "Cliff_05-A_2_b_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_05-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_05-A_2_b_2": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_05-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_05-A_2_b_3": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_05-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_05-A_2_b_4": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_05-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_05-A_2_c_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_05-A",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Cliff_05-A_2_d_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_05-A",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Cliff_05-B_1_b_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_05-B",
+    "role": "groundEdgeTiles"
+   }
+  ],
+  "Cliff_05-B_1_b_2": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_05-B",
+    "role": "groundEdgeTiles"
+   }
+  ],
+  "Cliff_05-B_1_b_3": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_05-B",
+    "role": "groundEdgeTiles"
+   }
+  ],
+  "Cliff_05-B_1_c_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_05-B",
+    "role": "groundCornerTiles"
+   }
+  ],
+  "Cliff_05-B_2_a_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_05-B",
+    "role": "centerTiles"
+   }
+  ],
+  "Cliff_05-B_2_b_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_05-B",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_05-B_2_b_2": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_05-B",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_05-B_2_b_3": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_05-B",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_05-B_2_c_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_05-B",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Cliff_05-B_2_d_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_05-B",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Cliff_06-A_1_b_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_06-A",
+    "role": "groundEdgeTiles"
+   }
+  ],
+  "Cliff_06-A_1_b_3": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_06-A",
+    "role": "groundEdgeTiles"
+   }
+  ],
+  "Cliff_06-A_1_c_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_06-A",
+    "role": "groundCornerTiles"
+   }
+  ],
+  "Cliff_06-A_2_a_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_06-A",
+    "role": "centerTiles"
+   }
+  ],
+  "Cliff_06-A_2_b_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_06-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_06-A_2_b_2": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_06-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_06-A_2_b_3": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_06-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_06-A_2_c_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_06-A",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Cliff_06-A_2_d_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_06-A",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Cliff_06-B_2_a_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_06-B",
+    "role": "centerTiles"
+   }
+  ],
+  "Cliff_06-B_2_b_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_06-B",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_06-B_2_b_2": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_06-B",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_06-B_2_b_3": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_06-B",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_06-B_2_b_4": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_06-B",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_06-B_2_c_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_06-B",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Cliff_06-B_2_d_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_06-B",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Cliff_06-C_2_a_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_06-C",
+    "role": "centerTiles"
+   }
+  ],
+  "Cliff_06-C_2_b_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_06-C",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_06-C_2_b_2": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_06-C",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_06-C_2_b_3": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_06-C",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_06-C_2_b_4": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_06-C",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_06-C_2_c_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_06-C",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Cliff_06-C_2_d_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_06-C",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Cliff_07-A_1_b_2": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_07-A",
+    "role": "groundEdgeTiles"
+   }
+  ],
+  "Cliff_07-A_1_c_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_07-A",
+    "role": "groundCornerTiles"
+   }
+  ],
+  "Cliff_07-A_2_b_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_07-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_07-A_2_b_2": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_07-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_07-A_2_b_4": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_07-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_07-A_2_c_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_07-A",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Cliff_07-A_2_c_2": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_07-A",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Cliff_08-B_2_a_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_08-B",
+    "role": "centerTiles"
+   }
+  ],
+  "Cliff_08-B_2_b_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_08-B",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_08-B_2_b_2": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_08-B",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_08-B_2_b_3": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_08-B",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_08-B_2_b_4": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_08-B",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_08-B_2_c_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_08-B",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Cliff_08-B_2_d_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_08-B",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Cliff_09-A_1_b_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_09-A",
+    "role": "groundEdgeTiles"
+   }
+  ],
+  "Cliff_09-A_1_c_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_09-A",
+    "role": "groundCornerTiles"
+   }
+  ],
+  "Cliff_09-A_2_a_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_09-A",
+    "role": "centerTiles"
+   }
+  ],
+  "Cliff_09-A_2_b_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_09-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_09-A_2_c_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_09-A",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Cliff_09-A_2_d_2": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_09-A",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Cliff_10-A_2_a_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_10-A",
+    "role": "centerTiles"
+   }
+  ],
+  "Cliff_10-A_2_b_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_10-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_10-A_2_c_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_10-A",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Cliff_10-A_2_d_2": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_10-A",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Cliff_11-B_2_a_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_11-B",
+    "role": "centerTiles"
+   }
+  ],
+  "Cliff_11-B_2_b_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_11-B",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_11-B_2_b_2": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_11-B",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_11-B_2_b_3": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_11-B",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_11-B_2_b_4": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_11-B",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_11-B_2_c_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_11-B",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Cliff_11-B_2_d_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_11-B",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Cliff_12-A_2_a_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_12-A",
+    "role": "centerTiles"
+   }
+  ],
+  "Cliff_12-A_2_b_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_12-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_12-A_2_b_2": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_12-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_12-A_2_b_3": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_12-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_12-A_2_b_4": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_12-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_12-A_2_c_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_12-A",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Cliff_12-A_2_d_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_12-A",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Cliff_13-A_2_a_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_13-A",
+    "role": "centerTiles"
+   }
+  ],
+  "Cliff_13-A_2_b_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_13-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_13-A_2_b_2": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_13-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_13-A_2_b_3": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_13-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_13-A_2_b_4": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_13-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_13-A_2_c_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_13-A",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Cliff_13-A_2_d_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_13-A",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Cliff_t01-A_1_b_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_t01-A",
+    "role": "groundEdgeTiles"
+   }
+  ],
+  "Cliff_t01-A_1_b_2": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_t01-A",
+    "role": "groundEdgeTiles"
+   }
+  ],
+  "Cliff_t01-A_1_b_3": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_t01-A",
+    "role": "groundEdgeTiles"
+   }
+  ],
+  "Cliff_t01-A_1_c_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_t01-A",
+    "role": "groundCornerTiles"
+   }
+  ],
+  "Cliff_t01-A_2_a_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_t01-A",
+    "role": "centerTiles"
+   }
+  ],
+  "Cliff_t01-A_2_b_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_t01-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_t01-A_2_b_2": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_t01-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_t01-A_2_b_3": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_t01-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_t01-A_2_b_4": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_t01-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_t01-A_2_c_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_t01-A",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Cliff_t01-A_2_d_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_t01-A",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Cliff_t01-B_1_b_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_t01-B",
+    "role": "groundEdgeTiles"
+   }
+  ],
+  "Cliff_t01-B_1_b_2": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_t01-B",
+    "role": "groundEdgeTiles"
+   }
+  ],
+  "Cliff_t01-B_1_b_3": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_t01-B",
+    "role": "groundEdgeTiles"
+   }
+  ],
+  "Cliff_t01-B_1_c_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_t01-B",
+    "role": "groundCornerTiles"
+   }
+  ],
+  "Cliff_t01-B_2_a_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_t01-B",
+    "role": "centerTiles"
+   }
+  ],
+  "Cliff_t01-B_2_b_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_t01-B",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_t01-B_2_b_2": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_t01-B",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_t01-B_2_b_3": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_t01-B",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_t01-B_2_c_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_t01-B",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Cliff_t01-B_2_d_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_t01-B",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Cliff_t03-A_1_b_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_t03-A",
+    "role": "groundEdgeTiles"
+   }
+  ],
+  "Cliff_t03-A_1_b_2": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_t03-A",
+    "role": "groundEdgeTiles"
+   }
+  ],
+  "Cliff_t03-A_1_b_3": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_t03-A",
+    "role": "groundEdgeTiles"
+   }
+  ],
+  "Cliff_t03-A_1_c_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_t03-A",
+    "role": "groundCornerTiles"
+   }
+  ],
+  "Cliff_t03-A_2_a_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_t03-A",
+    "role": "centerTiles"
+   }
+  ],
+  "Cliff_t03-A_2_b_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_t03-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_t03-A_2_b_2": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_t03-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_t03-A_2_b_3": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_t03-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_t03-A_2_b_4": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_t03-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_t03-A_2_c_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_t03-A",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Cliff_t03-A_2_d_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_t03-A",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Cliff_t05-A_1_b_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_t05-A",
+    "role": "groundEdgeTiles"
+   }
+  ],
+  "Cliff_t05-A_1_b_2": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_t05-A",
+    "role": "groundEdgeTiles"
+   }
+  ],
+  "Cliff_t05-A_1_b_3": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_t05-A",
+    "role": "groundEdgeTiles"
+   }
+  ],
+  "Cliff_t05-A_1_c_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_t05-A",
+    "role": "groundCornerTiles"
+   }
+  ],
+  "Cliff_t05-A_2_a_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_t05-A",
+    "role": "centerTiles"
+   }
+  ],
+  "Cliff_t05-A_2_b_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_t05-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_t05-A_2_b_2": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_t05-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_t05-A_2_b_3": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_t05-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_t05-A_2_b_4": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_t05-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_t05-A_2_c_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_t05-A",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Cliff_t05-A_2_d_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_t05-A",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Cliff_t06-A_2_a_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_t06-A",
+    "role": "centerTiles"
+   }
+  ],
+  "Cliff_t06-A_2_b_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_t06-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_t06-A_2_b_2": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_t06-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_t06-A_2_b_3": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_t06-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_t06-A_2_b_4": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_t06-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_t06-A_2_c_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_t06-A",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Cliff_t06-A_2_d_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_t06-A",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Cliff_t08-A_2_a_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_t08-A",
+    "role": "centerTiles"
+   }
+  ],
+  "Cliff_t08-A_2_b_2": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_t08-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_t08-A_2_b_3": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_t08-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_t08-A_2_b_4": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_t08-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_t08-A_2_c_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_t08-A",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Cliff_t08-A_2_d_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_t08-A",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Cliff_t08-B_2_a_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_t08-B",
+    "role": "centerTiles"
+   }
+  ],
+  "Cliff_t08-B_2_b_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_t08-B",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_t08-B_2_b_2": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_t08-B",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_t08-B_2_b_3": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_t08-B",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_t08-B_2_b_4": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_t08-B",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_t08-B_2_c_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_t08-B",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Cliff_t08-B_2_d_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_t08-B",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Cliff_t09-A_2_a_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_t09-A",
+    "role": "centerTiles"
+   }
+  ],
+  "Cliff_t09-A_2_b_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_t09-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_t09-A_2_b_2": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_t09-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_t09-A_2_b_3": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_t09-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_t09-A_2_b_4": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_t09-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Cliff_t09-A_2_c_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_t09-A",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Cliff_t09-A_2_d_1": [
+   {
+    "kind": "cliffs",
+    "group": "Cliff_t09-A",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Ground_Empty": [
+   {
+    "kind": "grounds",
+    "group": "Ground_Empty",
+    "role": "centerTiles"
+   }
+  ],
+  "Ground_int01_001": [
+   {
+    "kind": "grounds",
+    "group": "Ground_int01_001",
+    "role": "centerTiles"
+   }
+  ],
+  "Ground_int02_001": [
+   {
+    "kind": "grounds",
+    "group": "Ground_int02_001",
+    "role": "centerTiles"
+   }
+  ],
+  "Ground_int02_002": [
+   {
+    "kind": "grounds",
+    "group": "Ground_int02_002",
+    "role": "centerTiles"
+   }
+  ],
+  "Ground_int02_003": [
+   {
+    "kind": "grounds",
+    "group": "Ground_int02_003",
+    "role": "centerTiles"
+   }
+  ],
+  "Ground_int03_001": [
+   {
+    "kind": "grounds",
+    "group": "Ground_int03_001",
+    "role": "centerTiles"
+   }
+  ],
+  "Ground_int04_001": [
+   {
+    "kind": "grounds",
+    "group": "Ground_int04_001",
+    "role": "centerTiles"
+   }
+  ],
+  "Ground_int04_002": [
+   {
+    "kind": "grounds",
+    "group": "Ground_int04_002",
+    "role": "centerTiles"
+   }
+  ],
+  "Ground_int04_003": [
+   {
+    "kind": "grounds",
+    "group": "Ground_int04_003",
+    "role": "centerTiles"
+   }
+  ],
+  "Ground_int04_004": [
+   {
+    "kind": "grounds",
+    "group": "Ground_int04_004",
+    "role": "centerTiles"
+   }
+  ],
+  "Ground_int06_001": [
+   {
+    "kind": "grounds",
+    "group": "Ground_int06_001",
+    "role": "centerTiles"
+   }
+  ],
+  "Ground_t01_001": [
+   {
+    "kind": "grounds",
+    "group": "Ground_t01_001",
+    "role": "centerTiles"
+   }
+  ],
+  "Ground_t01_002": [
+   {
+    "kind": "grounds",
+    "group": "Ground_t01_002",
+    "role": "centerTiles"
+   }
+  ],
+  "Ground_t01_003": [
+   {
+    "kind": "grounds",
+    "group": "Ground_t01_003",
+    "role": "centerTiles"
+   }
+  ],
+  "Ground_t02_001": [
+   {
+    "kind": "grounds",
+    "group": "Ground_t02_001",
+    "role": "centerTiles"
+   }
+  ],
+  "Ground_t03_001": [
+   {
+    "kind": "grounds",
+    "group": "Ground_t03_001",
+    "role": "centerTiles"
+   }
+  ],
+  "Ground_t05_001": [
+   {
+    "kind": "grounds",
+    "group": "Ground_t05_001",
+    "role": "centerTiles"
+   }
+  ],
+  "Ground_t06_001": [
+   {
+    "kind": "grounds",
+    "group": "Ground_t06_001",
+    "role": "centerTiles"
+   }
+  ],
+  "Ground_t06_002": [
+   {
+    "kind": "grounds",
+    "group": "Ground_t06_002",
+    "role": "centerTiles"
+   }
+  ],
+  "Ground_t06_003": [
+   {
+    "kind": "grounds",
+    "group": "Ground_t06_003",
+    "role": "centerTiles"
+   }
+  ],
+  "Ground_t06_2_001": [
+   {
+    "kind": "grounds",
+    "group": "Ground_t06_2_001",
+    "role": "centerTiles"
+   }
+  ],
+  "Ground_t06_2_002": [
+   {
+    "kind": "grounds",
+    "group": "Ground_t06_2_002",
+    "role": "centerTiles"
+   }
+  ],
+  "Ground_t06_2_003": [
+   {
+    "kind": "grounds",
+    "group": "Ground_t06_2_003",
+    "role": "centerTiles"
+   }
+  ],
+  "Ground_t06_2_004": [
+   {
+    "kind": "grounds",
+    "group": "Ground_t06_2_004",
+    "role": "centerTiles"
+   }
+  ],
+  "Ground_t06_2_005": [
+   {
+    "kind": "grounds",
+    "group": "Ground_t06_2_005",
+    "role": "centerTiles"
+   }
+  ],
+  "Ground_ter01_001": [
+   {
+    "kind": "grounds",
+    "group": "Ground_ter01_001",
+    "role": "centerTiles"
+   }
+  ],
+  "Ground_ter01_002": [
+   {
+    "kind": "grounds",
+    "group": "Ground_ter01_002",
+    "role": "centerTiles"
+   }
+  ],
+  "Ground_ter02_001": [
+   {
+    "kind": "grounds",
+    "group": "Ground_ter02_001",
+    "role": "centerTiles"
+   }
+  ],
+  "Ground_ter03_001": [
+   {
+    "kind": "grounds",
+    "group": "Ground_ter03_001",
+    "role": "centerTiles"
+   }
+  ],
+  "Ground_ter04_001": [
+   {
+    "kind": "grounds",
+    "group": "Ground_ter04_001",
+    "role": "centerTiles"
+   }
+  ],
+  "Ground_ter04_002": [
+   {
+    "kind": "grounds",
+    "group": "Ground_ter04_002",
+    "role": "centerTiles"
+   }
+  ],
+  "Ground_ter05_001": [
+   {
+    "kind": "grounds",
+    "group": "Ground_ter05_001",
+    "role": "centerTiles"
+   }
+  ],
+  "Ground_ter06_001": [
+   {
+    "kind": "grounds",
+    "group": "Ground_ter06_001",
+    "role": "centerTiles"
+   }
+  ],
+  "Path_01-A_a_1": [
+   {
+    "kind": "routes",
+    "group": "Path_01-A",
+    "role": "centerTiles"
+   }
+  ],
+  "Path_01-A_b_1": [
+   {
+    "kind": "routes",
+    "group": "Path_01-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_01-A_c_1": [
+   {
+    "kind": "routes",
+    "group": "Path_01-A",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Path_01-A_d_1": [
+   {
+    "kind": "routes",
+    "group": "Path_01-A",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Path_01-B_a_1": [
+   {
+    "kind": "routes",
+    "group": "Path_01-B",
+    "role": "centerTiles"
+   }
+  ],
+  "Path_01-B_b_1": [
+   {
+    "kind": "routes",
+    "group": "Path_01-B",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_01-B_c_1": [
+   {
+    "kind": "routes",
+    "group": "Path_01-B",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Path_01-B_d_1": [
+   {
+    "kind": "routes",
+    "group": "Path_01-B",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Path_01-C_a_1": [
+   {
+    "kind": "routes",
+    "group": "Path_01-C",
+    "role": "centerTiles"
+   }
+  ],
+  "Path_01-C_b_1": [
+   {
+    "kind": "routes",
+    "group": "Path_01-C",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_01-C_b_2": [
+   {
+    "kind": "routes",
+    "group": "Path_01-C",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_01-C_b_3": [
+   {
+    "kind": "routes",
+    "group": "Path_01-C",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_01-C_b_4": [
+   {
+    "kind": "routes",
+    "group": "Path_01-C",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_01-C_c_1": [
+   {
+    "kind": "routes",
+    "group": "Path_01-C",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Path_01-C_d_1": [
+   {
+    "kind": "routes",
+    "group": "Path_01-C",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Path_02-A_a_1": [
+   {
+    "kind": "routes",
+    "group": "Path_02-A",
+    "role": "centerTiles"
+   }
+  ],
+  "Path_02-A_b_1": [
+   {
+    "kind": "routes",
+    "group": "Path_02-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_02-A_c_1": [
+   {
+    "kind": "routes",
+    "group": "Path_02-A",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Path_02-A_d_1": [
+   {
+    "kind": "routes",
+    "group": "Path_02-A",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Path_02-B_a_1": [
+   {
+    "kind": "routes",
+    "group": "Path_02-B",
+    "role": "centerTiles"
+   }
+  ],
+  "Path_02-B_b_1": [
+   {
+    "kind": "routes",
+    "group": "Path_02-B",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_02-B_c_1": [
+   {
+    "kind": "routes",
+    "group": "Path_02-B",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Path_02-B_d_1": [
+   {
+    "kind": "routes",
+    "group": "Path_02-B",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Path_02-C_a_1": [
+   {
+    "kind": "routes",
+    "group": "Path_02-C",
+    "role": "centerTiles"
+   }
+  ],
+  "Path_02-C_b_1": [
+   {
+    "kind": "routes",
+    "group": "Path_02-C",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_02-C_c_1": [
+   {
+    "kind": "routes",
+    "group": "Path_02-C",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Path_02-C_d_1": [
+   {
+    "kind": "routes",
+    "group": "Path_02-C",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Path_03-A_a_1": [
+   {
+    "kind": "routes",
+    "group": "Path_03-A",
+    "role": "centerTiles"
+   }
+  ],
+  "Path_03-A_b_1": [
+   {
+    "kind": "routes",
+    "group": "Path_03-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_03-A_c_1": [
+   {
+    "kind": "routes",
+    "group": "Path_03-A",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Path_03-A_d_1": [
+   {
+    "kind": "routes",
+    "group": "Path_03-A",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Path_03-B_a_1": [
+   {
+    "kind": "routes",
+    "group": "Path_03-B",
+    "role": "centerTiles"
+   }
+  ],
+  "Path_03-B_b_1": [
+   {
+    "kind": "routes",
+    "group": "Path_03-B",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_03-B_c_1": [
+   {
+    "kind": "routes",
+    "group": "Path_03-B",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Path_03-B_d_1": [
+   {
+    "kind": "routes",
+    "group": "Path_03-B",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Path_03-C_a_1": [
+   {
+    "kind": "routes",
+    "group": "Path_03-C",
+    "role": "centerTiles"
+   }
+  ],
+  "Path_03-C_b_1": [
+   {
+    "kind": "routes",
+    "group": "Path_03-C",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_03-C_b_2": [
+   {
+    "kind": "routes",
+    "group": "Path_03-C",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_03-C_b_3": [
+   {
+    "kind": "routes",
+    "group": "Path_03-C",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_03-C_b_4": [
+   {
+    "kind": "routes",
+    "group": "Path_03-C",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_03-C_c_1": [
+   {
+    "kind": "routes",
+    "group": "Path_03-C",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Path_03-C_d_1": [
+   {
+    "kind": "routes",
+    "group": "Path_03-C",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Path_04-A_a_1": [
+   {
+    "kind": "routes",
+    "group": "Path_04-A",
+    "role": "centerTiles"
+   }
+  ],
+  "Path_04-A_b_1": [
+   {
+    "kind": "routes",
+    "group": "Path_04-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_04-A_b_2": [
+   {
+    "kind": "routes",
+    "group": "Path_04-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_04-A_b_3": [
+   {
+    "kind": "routes",
+    "group": "Path_04-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_04-A_b_4": [
+   {
+    "kind": "routes",
+    "group": "Path_04-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_04-A_c_1": [
+   {
+    "kind": "routes",
+    "group": "Path_04-A",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Path_04-A_d_1": [
+   {
+    "kind": "routes",
+    "group": "Path_04-A",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Path_04-B_a_1": [
+   {
+    "kind": "routes",
+    "group": "Path_04-B",
+    "role": "centerTiles"
+   }
+  ],
+  "Path_04-B_b_1": [
+   {
+    "kind": "routes",
+    "group": "Path_04-B",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_04-B_c_1": [
+   {
+    "kind": "routes",
+    "group": "Path_04-B",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Path_04-B_d_1": [
+   {
+    "kind": "routes",
+    "group": "Path_04-B",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Path_04-C_a_1": [
+   {
+    "kind": "routes",
+    "group": "Path_04-C",
+    "role": "centerTiles"
+   }
+  ],
+  "Path_04-C_b_1": [
+   {
+    "kind": "routes",
+    "group": "Path_04-C",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_04-C_b_2": [
+   {
+    "kind": "routes",
+    "group": "Path_04-C",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_04-C_b_3": [
+   {
+    "kind": "routes",
+    "group": "Path_04-C",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_04-C_b_4": [
+   {
+    "kind": "routes",
+    "group": "Path_04-C",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_04-C_c_1": [
+   {
+    "kind": "routes",
+    "group": "Path_04-C",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Path_04-C_d_1": [
+   {
+    "kind": "routes",
+    "group": "Path_04-C",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Path_05-A_a_1": [
+   {
+    "kind": "routes",
+    "group": "Path_05-A",
+    "role": "centerTiles"
+   }
+  ],
+  "Path_05-A_b_1": [
+   {
+    "kind": "routes",
+    "group": "Path_05-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_05-A_c_1": [
+   {
+    "kind": "routes",
+    "group": "Path_05-A",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Path_05-A_d_1": [
+   {
+    "kind": "routes",
+    "group": "Path_05-A",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Path_05-B_a_1": [
+   {
+    "kind": "routes",
+    "group": "Path_05-B",
+    "role": "centerTiles"
+   }
+  ],
+  "Path_05-B_b_1": [
+   {
+    "kind": "routes",
+    "group": "Path_05-B",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_05-B_c_1": [
+   {
+    "kind": "routes",
+    "group": "Path_05-B",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Path_05-B_d_1": [
+   {
+    "kind": "routes",
+    "group": "Path_05-B",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Path_05-C_a_1": [
+   {
+    "kind": "routes",
+    "group": "Path_05-C",
+    "role": "centerTiles"
+   }
+  ],
+  "Path_05-C_b_1": [
+   {
+    "kind": "routes",
+    "group": "Path_05-C",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_05-C_b_2": [
+   {
+    "kind": "routes",
+    "group": "Path_05-C",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_05-C_b_3": [
+   {
+    "kind": "routes",
+    "group": "Path_05-C",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_05-C_b_4": [
+   {
+    "kind": "routes",
+    "group": "Path_05-C",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_05-C_c_1": [
+   {
+    "kind": "routes",
+    "group": "Path_05-C",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Path_05-C_d_1": [
+   {
+    "kind": "routes",
+    "group": "Path_05-C",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Path_06-A_a_1": [
+   {
+    "kind": "routes",
+    "group": "Path_06-A",
+    "role": "centerTiles"
+   }
+  ],
+  "Path_06-A_b_1": [
+   {
+    "kind": "routes",
+    "group": "Path_06-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_06-A_b_2": [
+   {
+    "kind": "routes",
+    "group": "Path_06-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_06-A_b_3": [
+   {
+    "kind": "routes",
+    "group": "Path_06-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_06-A_b_4": [
+   {
+    "kind": "routes",
+    "group": "Path_06-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_06-A_c_1": [
+   {
+    "kind": "routes",
+    "group": "Path_06-A",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Path_06-A_d_1": [
+   {
+    "kind": "routes",
+    "group": "Path_06-A",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Path_06-B_a_1": [
+   {
+    "kind": "routes",
+    "group": "Path_06-B",
+    "role": "centerTiles"
+   }
+  ],
+  "Path_06-B_b_1": [
+   {
+    "kind": "routes",
+    "group": "Path_06-B",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_06-B_c_1": [
+   {
+    "kind": "routes",
+    "group": "Path_06-B",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Path_06-B_d_1": [
+   {
+    "kind": "routes",
+    "group": "Path_06-B",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Path_06-C_a_1": [
+   {
+    "kind": "routes",
+    "group": "Path_06-C",
+    "role": "centerTiles"
+   }
+  ],
+  "Path_06-C_b_1": [
+   {
+    "kind": "routes",
+    "group": "Path_06-C",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_06-C_b_2": [
+   {
+    "kind": "routes",
+    "group": "Path_06-C",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_06-C_b_3": [
+   {
+    "kind": "routes",
+    "group": "Path_06-C",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_06-C_b_4": [
+   {
+    "kind": "routes",
+    "group": "Path_06-C",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_06-C_c_1": [
+   {
+    "kind": "routes",
+    "group": "Path_06-C",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Path_06-C_d_1": [
+   {
+    "kind": "routes",
+    "group": "Path_06-C",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Path_07-A_a_1": [
+   {
+    "kind": "routes",
+    "group": "Path_07-A",
+    "role": "centerTiles"
+   }
+  ],
+  "Path_07-A_b_1": [
+   {
+    "kind": "routes",
+    "group": "Path_07-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_07-A_b_2": [
+   {
+    "kind": "routes",
+    "group": "Path_07-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_07-A_b_3": [
+   {
+    "kind": "routes",
+    "group": "Path_07-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_07-A_b_4": [
+   {
+    "kind": "routes",
+    "group": "Path_07-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_07-A_c_1": [
+   {
+    "kind": "routes",
+    "group": "Path_07-A",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Path_07-A_d_1": [
+   {
+    "kind": "routes",
+    "group": "Path_07-A",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Path_07-B_a_1": [
+   {
+    "kind": "routes",
+    "group": "Path_07-B",
+    "role": "centerTiles"
+   }
+  ],
+  "Path_07-B_b_1": [
+   {
+    "kind": "routes",
+    "group": "Path_07-B",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_07-B_c_1": [
+   {
+    "kind": "routes",
+    "group": "Path_07-B",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Path_07-B_d_1": [
+   {
+    "kind": "routes",
+    "group": "Path_07-B",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Path_07-C_a_1": [
+   {
+    "kind": "routes",
+    "group": "Path_07-C",
+    "role": "centerTiles"
+   }
+  ],
+  "Path_07-C_b_1": [
+   {
+    "kind": "routes",
+    "group": "Path_07-C",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_07-C_b_2": [
+   {
+    "kind": "routes",
+    "group": "Path_07-C",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_07-C_b_3": [
+   {
+    "kind": "routes",
+    "group": "Path_07-C",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_07-C_b_4": [
+   {
+    "kind": "routes",
+    "group": "Path_07-C",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_07-C_c_1": [
+   {
+    "kind": "routes",
+    "group": "Path_07-C",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Path_07-C_d_1": [
+   {
+    "kind": "routes",
+    "group": "Path_07-C",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Path_09-A_a_1": [
+   {
+    "kind": "routes",
+    "group": "Path_09-A",
+    "role": "centerTiles"
+   }
+  ],
+  "Path_09-A_b_1": [
+   {
+    "kind": "routes",
+    "group": "Path_09-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_09-A_c_1": [
+   {
+    "kind": "routes",
+    "group": "Path_09-A",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Path_09-A_d_1": [
+   {
+    "kind": "routes",
+    "group": "Path_09-A",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Path_10-A_a_1": [
+   {
+    "kind": "routes",
+    "group": "Path_10-A",
+    "role": "centerTiles"
+   }
+  ],
+  "Path_10-A_b_1": [
+   {
+    "kind": "routes",
+    "group": "Path_10-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_10-A_c_1": [
+   {
+    "kind": "routes",
+    "group": "Path_10-A",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Path_10-A_d_1": [
+   {
+    "kind": "routes",
+    "group": "Path_10-A",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Path_10-B_a_1": [
+   {
+    "kind": "routes",
+    "group": "Path_10-B",
+    "role": "centerTiles"
+   }
+  ],
+  "Path_10-B_b_1": [
+   {
+    "kind": "routes",
+    "group": "Path_10-B",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_10-B_c_1": [
+   {
+    "kind": "routes",
+    "group": "Path_10-B",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Path_10-B_d_1": [
+   {
+    "kind": "routes",
+    "group": "Path_10-B",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Path_10-C_a_1": [
+   {
+    "kind": "routes",
+    "group": "Path_10-C",
+    "role": "centerTiles"
+   }
+  ],
+  "Path_10-C_b_1": [
+   {
+    "kind": "routes",
+    "group": "Path_10-C",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_10-C_b_2": [
+   {
+    "kind": "routes",
+    "group": "Path_10-C",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_10-C_b_3": [
+   {
+    "kind": "routes",
+    "group": "Path_10-C",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_10-C_b_4": [
+   {
+    "kind": "routes",
+    "group": "Path_10-C",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_10-C_c_1": [
+   {
+    "kind": "routes",
+    "group": "Path_10-C",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Path_10-C_d_1": [
+   {
+    "kind": "routes",
+    "group": "Path_10-C",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Path_11-A_a_1": [
+   {
+    "kind": "routes",
+    "group": "Path_11-A",
+    "role": "centerTiles"
+   }
+  ],
+  "Path_11-A_b_1": [
+   {
+    "kind": "routes",
+    "group": "Path_11-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_11-A_b_2": [
+   {
+    "kind": "routes",
+    "group": "Path_11-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_11-A_b_3": [
+   {
+    "kind": "routes",
+    "group": "Path_11-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_11-A_b_4": [
+   {
+    "kind": "routes",
+    "group": "Path_11-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_11-A_c_1": [
+   {
+    "kind": "routes",
+    "group": "Path_11-A",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Path_11-A_d_1": [
+   {
+    "kind": "routes",
+    "group": "Path_11-A",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Path_11-B_a_1": [
+   {
+    "kind": "routes",
+    "group": "Path_11-B",
+    "role": "centerTiles"
+   }
+  ],
+  "Path_11-B_b_1": [
+   {
+    "kind": "routes",
+    "group": "Path_11-B",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_11-B_c_1": [
+   {
+    "kind": "routes",
+    "group": "Path_11-B",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Path_11-B_d_1": [
+   {
+    "kind": "routes",
+    "group": "Path_11-B",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Path_11-C_a_1": [
+   {
+    "kind": "routes",
+    "group": "Path_11-C",
+    "role": "centerTiles"
+   }
+  ],
+  "Path_11-C_b_1": [
+   {
+    "kind": "routes",
+    "group": "Path_11-C",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_11-C_b_2": [
+   {
+    "kind": "routes",
+    "group": "Path_11-C",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_11-C_b_3": [
+   {
+    "kind": "routes",
+    "group": "Path_11-C",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_11-C_b_4": [
+   {
+    "kind": "routes",
+    "group": "Path_11-C",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_11-C_c_1": [
+   {
+    "kind": "routes",
+    "group": "Path_11-C",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Path_11-C_d_1": [
+   {
+    "kind": "routes",
+    "group": "Path_11-C",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Path_t01-A_a_1": [
+   {
+    "kind": "routes",
+    "group": "Path_t01-A",
+    "role": "centerTiles"
+   }
+  ],
+  "Path_t01-A_b_1": [
+   {
+    "kind": "routes",
+    "group": "Path_t01-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_t01-A_c_1": [
+   {
+    "kind": "routes",
+    "group": "Path_t01-A",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Path_t01-A_d_1": [
+   {
+    "kind": "routes",
+    "group": "Path_t01-A",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Path_t01-B_a_1": [
+   {
+    "kind": "routes",
+    "group": "Path_t01-B",
+    "role": "centerTiles"
+   }
+  ],
+  "Path_t01-B_b_1": [
+   {
+    "kind": "routes",
+    "group": "Path_t01-B",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_t01-B_c_1": [
+   {
+    "kind": "routes",
+    "group": "Path_t01-B",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Path_t01-B_d_1": [
+   {
+    "kind": "routes",
+    "group": "Path_t01-B",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Path_t01-C_a_1": [
+   {
+    "kind": "routes",
+    "group": "Path_t01-C",
+    "role": "centerTiles"
+   }
+  ],
+  "Path_t01-C_b_1": [
+   {
+    "kind": "routes",
+    "group": "Path_t01-C",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_t01-C_b_2": [
+   {
+    "kind": "routes",
+    "group": "Path_t01-C",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_t01-C_b_3": [
+   {
+    "kind": "routes",
+    "group": "Path_t01-C",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_t01-C_b_4": [
+   {
+    "kind": "routes",
+    "group": "Path_t01-C",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_t01-C_c_1": [
+   {
+    "kind": "routes",
+    "group": "Path_t01-C",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Path_t01-C_d_1": [
+   {
+    "kind": "routes",
+    "group": "Path_t01-C",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Path_t01-D_a_1": [
+   {
+    "kind": "routes",
+    "group": "Path_t01-D",
+    "role": "centerTiles"
+   }
+  ],
+  "Path_t01-D_b_1": [
+   {
+    "kind": "routes",
+    "group": "Path_t01-D",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_t01-D_c_1": [
+   {
+    "kind": "routes",
+    "group": "Path_t01-D",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Path_t01-D_d_1": [
+   {
+    "kind": "routes",
+    "group": "Path_t01-D",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Path_t01-E_a_1": [
+   {
+    "kind": "routes",
+    "group": "Path_t01-E",
+    "role": "centerTiles"
+   }
+  ],
+  "Path_t01-E_b_1": [
+   {
+    "kind": "routes",
+    "group": "Path_t01-E",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_t01-E_c_1": [
+   {
+    "kind": "routes",
+    "group": "Path_t01-E",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Path_t01-E_d_1": [
+   {
+    "kind": "routes",
+    "group": "Path_t01-E",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Path_t01-F_a_1": [
+   {
+    "kind": "routes",
+    "group": "Path_t01-F",
+    "role": "centerTiles"
+   }
+  ],
+  "Path_t01-F_b_1": [
+   {
+    "kind": "routes",
+    "group": "Path_t01-F",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_t01-F_c_1": [
+   {
+    "kind": "routes",
+    "group": "Path_t01-F",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Path_t01-F_d_1": [
+   {
+    "kind": "routes",
+    "group": "Path_t01-F",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Path_t03-A_a_1": [
+   {
+    "kind": "routes",
+    "group": "Path_t03-A",
+    "role": "centerTiles"
+   }
+  ],
+  "Path_t03-A_b_1": [
+   {
+    "kind": "routes",
+    "group": "Path_t03-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_t03-A_c_1": [
+   {
+    "kind": "routes",
+    "group": "Path_t03-A",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Path_t03-A_d_1": [
+   {
+    "kind": "routes",
+    "group": "Path_t03-A",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Path_t03-B_a_1": [
+   {
+    "kind": "routes",
+    "group": "Path_t03-B",
+    "role": "centerTiles"
+   }
+  ],
+  "Path_t03-B_b_1": [
+   {
+    "kind": "routes",
+    "group": "Path_t03-B",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_t03-B_c_1": [
+   {
+    "kind": "routes",
+    "group": "Path_t03-B",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Path_t03-B_d_1": [
+   {
+    "kind": "routes",
+    "group": "Path_t03-B",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Path_t03-C_a_1": [
+   {
+    "kind": "routes",
+    "group": "Path_t03-C",
+    "role": "centerTiles"
+   }
+  ],
+  "Path_t03-C_b_1": [
+   {
+    "kind": "routes",
+    "group": "Path_t03-C",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_t03-C_b_2": [
+   {
+    "kind": "routes",
+    "group": "Path_t03-C",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_t03-C_b_3": [
+   {
+    "kind": "routes",
+    "group": "Path_t03-C",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_t03-C_b_4": [
+   {
+    "kind": "routes",
+    "group": "Path_t03-C",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_t03-C_c_1": [
+   {
+    "kind": "routes",
+    "group": "Path_t03-C",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Path_t03-C_d_1": [
+   {
+    "kind": "routes",
+    "group": "Path_t03-C",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Path_t05-A_a_1": [
+   {
+    "kind": "routes",
+    "group": "Path_t05-A",
+    "role": "centerTiles"
+   }
+  ],
+  "Path_t05-A_b_1": [
+   {
+    "kind": "routes",
+    "group": "Path_t05-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_t05-A_b_2": [
+   {
+    "kind": "routes",
+    "group": "Path_t05-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_t05-A_b_3": [
+   {
+    "kind": "routes",
+    "group": "Path_t05-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_t05-A_b_4": [
+   {
+    "kind": "routes",
+    "group": "Path_t05-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_t05-A_c_1": [
+   {
+    "kind": "routes",
+    "group": "Path_t05-A",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Path_t05-A_d_1": [
+   {
+    "kind": "routes",
+    "group": "Path_t05-A",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Path_t05-B_a_1": [
+   {
+    "kind": "routes",
+    "group": "Path_t05-B",
+    "role": "centerTiles"
+   }
+  ],
+  "Path_t05-B_b_1": [
+   {
+    "kind": "routes",
+    "group": "Path_t05-B",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_t05-B_c_1": [
+   {
+    "kind": "routes",
+    "group": "Path_t05-B",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Path_t05-B_d_1": [
+   {
+    "kind": "routes",
+    "group": "Path_t05-B",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Path_t05-C_a_1": [
+   {
+    "kind": "routes",
+    "group": "Path_t05-C",
+    "role": "centerTiles"
+   }
+  ],
+  "Path_t05-C_b_1": [
+   {
+    "kind": "routes",
+    "group": "Path_t05-C",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_t05-C_c_1": [
+   {
+    "kind": "routes",
+    "group": "Path_t05-C",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Path_t05-C_d_1": [
+   {
+    "kind": "routes",
+    "group": "Path_t05-C",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Path_t05-D_a_1": [
+   {
+    "kind": "routes",
+    "group": "Path_t05-D",
+    "role": "centerTiles"
+   }
+  ],
+  "Path_t07-A_a_1": [
+   {
+    "kind": "routes",
+    "group": "Path_t07-A",
+    "role": "centerTiles"
+   }
+  ],
+  "Path_t07-A_b_1": [
+   {
+    "kind": "routes",
+    "group": "Path_t07-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_t07-A_b_2": [
+   {
+    "kind": "routes",
+    "group": "Path_t07-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_t07-A_b_3": [
+   {
+    "kind": "routes",
+    "group": "Path_t07-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_t07-A_b_4": [
+   {
+    "kind": "routes",
+    "group": "Path_t07-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_t07-A_c_1": [
+   {
+    "kind": "routes",
+    "group": "Path_t07-A",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Path_t07-A_d_1": [
+   {
+    "kind": "routes",
+    "group": "Path_t07-A",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Path_t07-B_a_1": [
+   {
+    "kind": "routes",
+    "group": "Path_t07-B",
+    "role": "centerTiles"
+   }
+  ],
+  "Path_t07-B_b_1": [
+   {
+    "kind": "routes",
+    "group": "Path_t07-B",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_t07-B_c_1": [
+   {
+    "kind": "routes",
+    "group": "Path_t07-B",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Path_t07-B_d_1": [
+   {
+    "kind": "routes",
+    "group": "Path_t07-B",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Path_t08-A_a_1": [
+   {
+    "kind": "routes",
+    "group": "Path_t08-A",
+    "role": "centerTiles"
+   }
+  ],
+  "Path_t08-A_b_1": [
+   {
+    "kind": "routes",
+    "group": "Path_t08-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_t08-A_b_2": [
+   {
+    "kind": "routes",
+    "group": "Path_t08-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_t08-A_b_3": [
+   {
+    "kind": "routes",
+    "group": "Path_t08-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_t08-A_b_4": [
+   {
+    "kind": "routes",
+    "group": "Path_t08-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_t08-A_c_1": [
+   {
+    "kind": "routes",
+    "group": "Path_t08-A",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Path_t08-A_d_1": [
+   {
+    "kind": "routes",
+    "group": "Path_t08-A",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Path_t08-B_a_1": [
+   {
+    "kind": "routes",
+    "group": "Path_t08-B",
+    "role": "centerTiles"
+   }
+  ],
+  "Path_t08-B_b_1": [
+   {
+    "kind": "routes",
+    "group": "Path_t08-B",
+    "role": "edgeTiles"
+   }
+  ],
+  "Path_t08-B_c_1": [
+   {
+    "kind": "routes",
+    "group": "Path_t08-B",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Path_t08-B_d_1": [
+   {
+    "kind": "routes",
+    "group": "Path_t08-B",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Water_01-A_0_a_1": [
+   {
+    "kind": "waters",
+    "group": "Water_01-A",
+    "role": "centerTiles"
+   }
+  ],
+  "Water_01-A_0_b_1": [
+   {
+    "kind": "waters",
+    "group": "Water_01-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Water_01-A_0_c_1": [
+   {
+    "kind": "waters",
+    "group": "Water_01-A",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Water_01-A_0_d_1": [
+   {
+    "kind": "waters",
+    "group": "Water_01-A",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Water_02-A_0_a_1": [
+   {
+    "kind": "waters",
+    "group": "Water_02-A",
+    "role": "centerTiles"
+   }
+  ],
+  "Water_02-A_0_b_1": [
+   {
+    "kind": "waters",
+    "group": "Water_02-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Water_02-A_0_c_1": [
+   {
+    "kind": "waters",
+    "group": "Water_02-A",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Water_02-A_0_d_1": [
+   {
+    "kind": "waters",
+    "group": "Water_02-A",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Water_03-A_0_a_1": [
+   {
+    "kind": "waters",
+    "group": "Water_03-A",
+    "role": "centerTiles"
+   }
+  ],
+  "Water_03-A_0_b_1": [
+   {
+    "kind": "waters",
+    "group": "Water_03-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Water_03-A_0_c_1": [
+   {
+    "kind": "waters",
+    "group": "Water_03-A",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Water_03-A_0_d_1": [
+   {
+    "kind": "waters",
+    "group": "Water_03-A",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Water_04-A_0_a_1": [
+   {
+    "kind": "waters",
+    "group": "Water_04-A",
+    "role": "centerTiles"
+   }
+  ],
+  "Water_04-A_0_b_1": [
+   {
+    "kind": "waters",
+    "group": "Water_04-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Water_04-A_0_c_1": [
+   {
+    "kind": "waters",
+    "group": "Water_04-A",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Water_04-A_0_d_1": [
+   {
+    "kind": "waters",
+    "group": "Water_04-A",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Water_05-A_0_a_1": [
+   {
+    "kind": "waters",
+    "group": "Water_05-A",
+    "role": "centerTiles"
+   }
+  ],
+  "Water_05-A_0_b_1": [
+   {
+    "kind": "waters",
+    "group": "Water_05-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Water_05-A_0_c_1": [
+   {
+    "kind": "waters",
+    "group": "Water_05-A",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Water_05-A_0_d_1": [
+   {
+    "kind": "waters",
+    "group": "Water_05-A",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Water_06-A_0_a_1": [
+   {
+    "kind": "waters",
+    "group": "Water_06-A",
+    "role": "centerTiles"
+   }
+  ],
+  "Water_06-A_0_b_1": [
+   {
+    "kind": "waters",
+    "group": "Water_06-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Water_06-A_0_b_2": [
+   {
+    "kind": "waters",
+    "group": "Water_06-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Water_06-A_0_b_3": [
+   {
+    "kind": "waters",
+    "group": "Water_06-A",
+    "role": "edgeTiles"
+   }
+  ],
+  "Water_06-A_0_c_1": [
+   {
+    "kind": "waters",
+    "group": "Water_06-A",
+    "role": "convexCornerTiles"
+   }
+  ],
+  "Water_06-A_0_d_1": [
+   {
+    "kind": "waters",
+    "group": "Water_06-A",
+    "role": "concaveCornerTiles"
+   }
+  ],
+  "Water_07-A_0_a_1": [
+   {
+    "kind": "waters",
+    "group": "Water_07-A",
+    "role": "centerTiles"
+   }
+  ],
+  "Water_08-A_0_a_1": [
+   {
+    "kind": "waters",
+    "group": "Water_08-A",
+    "role": "centerTiles"
+   }
+  ]
+ },
+ "_note": "Dumped from data.bundle MapCombineDataSet. classfication.<kind>[] lists tile piece names (GameObject names of prefabs in map/*.glb) per tile group and role. _pieceRoles is the reverse lookup."
+}
