@@ -1,0 +1,1 @@
+{"prefab":"Assets/_Internal/Addressable/UI/UI/View/WorldMapUI/WorldMapHiddenPod.prefab","bundle":"ui_view.bundle","root":{"name":"WorldMapHiddenPod","active":true,"rect":{"anchorMin":[0.5,0.5],"anchorMax":[0.5,0.5],"pos":[0.0,-22.0],"size":[46.0,38.0],"pivot":[0.5,0.5]},"comp":[{"cls":"SM.Scene.Play.UI.View.WorldMapUI.WorldMapHiddenPod"}]}}
